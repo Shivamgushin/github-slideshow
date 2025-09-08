@@ -1,0 +1,501 @@
+lead_id,date,channel,source,property_type,location,budget_min,budget_max,lead_score,status,days_in_pipeline,contact_attempts,email_opens,website_visits,is_converted,conversion_value
+LD0001,2025-08-22,Facebook Ads,Website Contact Form,Office Space,Mumbai Central,3787433,4341057,48,Contacted,17,1,9,14,False,0.0
+LD0002,2025-03-20,Google Ads,Website Contact Form,Villa,Hyderabad,10642600,11416129,33,Negotiation,172,6,3,15,False,0.0
+LD0003,2025-08-09,Email Marketing,Website Contact Form,Plot,Pune,3306182,7708456,74,Contacted,30,5,1,3,False,0.0
+LD0004,2025-06-17,Facebook Ads,WhatsApp,Office Space,Delhi NCR,2062275,2728977,53,Negotiation,83,1,6,3,False,0.0
+LD0005,2025-07-31,Email Marketing,Walk-in,Office Space,Mumbai Central,1692201,5226067,93,Qualified,39,3,12,10,False,0.0
+LD0006,2025-04-01,Organic Search,Website Contact Form,Plot,Bangalore,2378736,4728882,81,Proposal Sent,160,4,11,22,False,0.0
+LD0007,2025-08-24,Facebook Ads,Email Response,Commercial,Delhi NCR,2632243,4741438,51,Negotiation,15,8,3,22,False,0.0
+LD0008,2025-06-03,Google Ads,Phone Call,Apartment,Pune,4139709,6491946,71,Qualified,97,3,10,16,False,0.0
+LD0009,2025-06-21,Direct Mail,Phone Call,Plot,Hyderabad,8687926,11042538,100,Contacted,79,6,5,8,False,0.0
+LD0010,2025-04-16,Direct Mail,Website Contact Form,Villa,Ahmedabad,8582668,12526797,49,New,145,1,6,13,False,0.0
+LD0011,2025-08-11,Direct Mail,Email Response,Office Space,Mumbai Central,10508867,13413261,31,Negotiation,28,4,12,21,False,0.0
+LD0012,2025-06-07,Facebook Ads,WhatsApp,Office Space,Bangalore,9898441,14114694,30,Proposal Sent,93,2,8,4,False,0.0
+LD0013,2025-08-19,Email Marketing,Walk-in,Villa,Chennai,5948929,8273233,49,Contacted,20,0,9,11,False,0.0
+LD0014,2025-07-15,Google Ads,Website Contact Form,Villa,Chennai,1582582,2971823,50,Qualified,55,1,11,16,False,0.0
+LD0015,2025-03-29,Instagram Ads,Phone Call,Warehouse,Ahmedabad,5049538,6446912,41,Negotiation,163,3,8,25,False,0.0
+LD0016,2025-09-04,Organic Search,Walk-in,Warehouse,Delhi NCR,2515056,9350099,92,Lost,4,3,3,3,False,0.0
+LD0017,2025-06-06,Google Ads,Email Response,Apartment,Hyderabad,1582719,2120642,48,Negotiation,94,0,3,3,False,0.0
+LD0018,2025-03-20,Referrals,Website Contact Form,Warehouse,Pune,4533960,5594297,97,Qualified,172,7,3,16,False,0.0
+LD0019,2025-06-24,Organic Search,Website Contact Form,Commercial,Delhi NCR,5417686,7944126,90,Converted,76,0,10,21,True,158882.52
+LD0020,2025-08-24,Facebook Ads,Website Contact Form,Villa,Pune,3749345,6171761,33,Qualified,15,7,2,14,False,0.0
+LD0021,2025-04-27,Email Marketing,Social Media DM,Apartment,Mumbai Central,10569560,11232926,86,New,134,0,1,25,False,0.0
+LD0022,2025-05-11,Instagram Ads,Social Media DM,Villa,Delhi NCR,1502260,2983738,71,Contacted,120,6,4,15,False,0.0
+LD0023,2025-05-24,Cold Calls,Walk-in,Villa,Bangalore,2413103,4597059,82,Negotiation,107,0,9,24,False,0.0
+LD0024,2025-07-28,Google Ads,Walk-in,Warehouse,Ahmedabad,5955408,9999183,100,New,42,2,0,17,False,0.0
+LD0025,2025-04-01,Instagram Ads,Website Contact Form,Apartment,Chennai,3565404,8774229,60,Lost,160,0,9,3,False,0.0
+LD0026,2025-06-27,Referrals,WhatsApp,Plot,Delhi NCR,2048943,6004485,75,Converted,73,4,7,11,True,120089.7
+LD0027,2025-03-30,Google Ads,Social Media DM,Warehouse,Pune,2560917,3229110,32,Negotiation,162,4,2,12,False,0.0
+LD0028,2025-03-29,Organic Search,WhatsApp,Plot,Chennai,12471901,13803441,100,Proposal Sent,163,8,0,22,False,0.0
+LD0029,2025-07-31,Email Marketing,Walk-in,Apartment,Mumbai Central,2803991,6437001,37,Converted,39,4,4,20,True,128740.02
+LD0030,2025-05-04,Referrals,Phone Call,Plot,Ahmedabad,1926132,10196204,100,Qualified,127,1,10,14,False,0.0
+LD0031,2025-05-21,Google Ads,Website Contact Form,Office Space,Delhi NCR,3813915,4710895,53,Contacted,110,6,8,1,False,0.0
+LD0032,2025-04-09,Facebook Ads,Walk-in,Warehouse,Chennai,2742300,8194416,34,Negotiation,152,6,2,2,False,0.0
+LD0033,2025-05-29,Referrals,Website Contact Form,Apartment,Bangalore,10893286,13189285,76,Contacted,102,6,9,24,False,0.0
+LD0034,2025-04-20,Organic Search,Phone Call,Villa,Hyderabad,1674160,2415846,87,Contacted,141,6,12,22,False,0.0
+LD0035,2025-05-14,Email Marketing,Phone Call,Commercial,Pune,1709267,2649691,68,New,117,7,5,10,False,0.0
+LD0036,2025-05-09,Organic Search,Website Contact Form,Apartment,Ahmedabad,3841470,6674183,77,Proposal Sent,122,5,10,17,False,0.0
+LD0037,2025-06-22,Referrals,Website Contact Form,Warehouse,Bangalore,1660462,4995870,68,Converted,78,1,9,14,True,99917.40000000001
+LD0038,2025-06-08,Referrals,Social Media DM,Warehouse,Pune,3636767,8462506,59,Negotiation,92,0,11,14,False,0.0
+LD0039,2025-03-12,Organic Search,WhatsApp,Plot,Hyderabad,3590865,12454812,87,Lost,180,4,8,10,False,0.0
+LD0040,2025-08-29,Cold Calls,WhatsApp,Villa,Delhi NCR,3090250,4135534,90,Qualified,10,2,9,19,False,0.0
+LD0041,2025-05-28,Cold Calls,Email Response,Commercial,Ahmedabad,3932632,5526280,56,Qualified,103,5,7,15,False,0.0
+LD0042,2025-07-03,Organic Search,Email Response,Apartment,Bangalore,10147849,13053681,66,Lost,67,5,1,25,False,0.0
+LD0043,2025-05-11,Email Marketing,Phone Call,Villa,Delhi NCR,2140967,2775337,23,Contacted,120,1,7,14,False,0.0
+LD0044,2025-08-20,Organic Search,Walk-in,Villa,Hyderabad,4384097,6093379,86,Proposal Sent,19,0,12,25,False,0.0
+LD0045,2025-04-08,Cold Calls,Phone Call,Apartment,Chennai,3590426,9793853,96,Lost,153,1,7,5,False,0.0
+LD0046,2025-07-08,Referrals,Social Media DM,Warehouse,Delhi NCR,2835113,9159521,100,Lost,62,7,7,9,False,0.0
+LD0047,2025-05-14,Email Marketing,Email Response,Apartment,Hyderabad,3896861,9379837,65,Contacted,117,3,4,11,False,0.0
+LD0048,2025-06-01,Facebook Ads,Phone Call,Villa,Mumbai Central,8460328,13851746,49,Proposal Sent,99,6,5,18,False,0.0
+LD0049,2025-07-09,Cold Calls,Website Contact Form,Warehouse,Hyderabad,1827691,14915029,79,Proposal Sent,61,6,7,1,False,0.0
+LD0050,2025-06-10,Email Marketing,Social Media DM,Office Space,Chennai,11620898,14541231,98,Proposal Sent,90,3,7,8,False,0.0
+LD0051,2025-05-20,Cold Calls,Social Media DM,Office Space,Ahmedabad,8283308,13221837,73,Converted,111,2,7,5,True,264436.74
+LD0052,2025-08-18,Google Ads,Social Media DM,Office Space,Delhi NCR,1784582,3408404,23,Lost,21,7,2,2,False,0.0
+LD0053,2025-05-17,Cold Calls,WhatsApp,Commercial,Bangalore,14116631,14771315,73,Qualified,114,6,4,3,False,0.0
+LD0054,2025-07-10,Google Ads,Walk-in,Apartment,Ahmedabad,2175419,12907607,58,Qualified,60,0,3,7,False,0.0
+LD0055,2025-03-17,Instagram Ads,Phone Call,Villa,Delhi NCR,5799055,11461839,44,Lost,175,5,2,20,False,0.0
+LD0056,2025-08-14,Facebook Ads,Phone Call,Plot,Chennai,1855125,2430812,94,New,25,6,6,23,False,0.0
+LD0057,2025-05-01,Facebook Ads,Email Response,Office Space,Ahmedabad,2132464,3709620,51,Lost,130,1,12,19,False,0.0
+LD0058,2025-03-22,Referrals,Email Response,Office Space,Bangalore,1712267,10488613,53,Qualified,170,6,7,4,False,0.0
+LD0059,2025-06-30,Referrals,Walk-in,Villa,Hyderabad,5876728,9306261,64,Proposal Sent,70,4,9,18,False,0.0
+LD0060,2025-07-13,Direct Mail,Social Media DM,Villa,Ahmedabad,2226981,7407373,54,Negotiation,57,4,7,8,False,0.0
+LD0061,2025-07-08,Cold Calls,WhatsApp,Commercial,Pune,2988243,5050766,61,Converted,62,4,5,9,True,101015.32
+LD0062,2025-08-11,Email Marketing,Email Response,Villa,Hyderabad,2352341,3436347,44,Converted,28,7,8,25,True,68726.94
+LD0063,2025-05-12,Direct Mail,Walk-in,Plot,Pune,2348090,3561176,22,Proposal Sent,119,3,4,22,False,0.0
+LD0064,2025-08-07,Referrals,Social Media DM,Warehouse,Bangalore,7402401,14514719,99,Qualified,32,7,4,10,False,0.0
+LD0065,2025-05-15,Organic Search,Website Contact Form,Warehouse,Ahmedabad,13079023,14463476,60,Qualified,116,2,3,7,False,0.0
+LD0066,2025-07-13,Email Marketing,Walk-in,Villa,Bangalore,1977066,3686548,56,Negotiation,57,5,2,10,False,0.0
+LD0067,2025-03-15,Instagram Ads,WhatsApp,Plot,Hyderabad,3618618,11283822,36,Converted,177,7,1,1,True,225676.44
+LD0068,2025-08-05,Email Marketing,Social Media DM,Plot,Ahmedabad,2000935,2861958,43,Qualified,34,1,1,13,False,0.0
+LD0069,2025-07-15,Facebook Ads,Email Response,Warehouse,Bangalore,1857274,4503120,39,New,55,3,1,18,False,0.0
+LD0070,2025-06-26,Organic Search,Email Response,Commercial,Bangalore,11040019,11873813,83,Proposal Sent,74,0,9,24,False,0.0
+LD0071,2025-04-06,Organic Search,Walk-in,Villa,Pune,3815223,4634980,45,Converted,155,1,2,1,True,92699.6
+LD0072,2025-06-24,Direct Mail,Walk-in,Plot,Hyderabad,2685806,5883526,24,Qualified,76,7,1,22,False,0.0
+LD0073,2025-05-10,Email Marketing,Walk-in,Warehouse,Pune,2858188,3925626,74,Contacted,121,2,4,5,False,0.0
+LD0074,2025-03-30,Google Ads,Phone Call,Commercial,Mumbai Central,5431723,6842082,92,Negotiation,162,4,11,13,False,0.0
+LD0075,2025-05-20,Direct Mail,Social Media DM,Plot,Chennai,5700476,14323434,85,New,111,0,1,8,False,0.0
+LD0076,2025-08-31,Google Ads,Walk-in,Villa,Delhi NCR,10206768,14802844,35,Negotiation,8,7,4,6,False,0.0
+LD0077,2025-08-08,Cold Calls,Walk-in,Commercial,Bangalore,4193231,7837817,80,New,31,1,2,11,False,0.0
+LD0078,2025-06-25,Direct Mail,WhatsApp,Commercial,Mumbai Central,1829795,2615675,90,Proposal Sent,75,4,5,4,False,0.0
+LD0079,2025-06-23,Google Ads,Walk-in,Villa,Chennai,1879353,2909393,72,Proposal Sent,77,7,10,15,False,0.0
+LD0080,2025-03-25,Organic Search,WhatsApp,Commercial,Mumbai Central,1984348,13714691,100,Qualified,167,3,11,6,False,0.0
+LD0081,2025-05-30,Google Ads,Email Response,Apartment,Hyderabad,8480522,9741810,44,Contacted,101,2,7,23,False,0.0
+LD0082,2025-05-25,Email Marketing,Social Media DM,Warehouse,Pune,4717752,9663605,61,Proposal Sent,106,3,9,17,False,0.0
+LD0083,2025-04-15,Facebook Ads,WhatsApp,Plot,Ahmedabad,1543037,10518424,73,Proposal Sent,146,4,11,10,False,0.0
+LD0084,2025-08-09,Direct Mail,Phone Call,Warehouse,Ahmedabad,6058621,7577416,64,Proposal Sent,30,6,7,11,False,0.0
+LD0085,2025-04-29,Organic Search,Email Response,Office Space,Delhi NCR,4697998,7338112,40,Proposal Sent,132,6,10,21,False,0.0
+LD0086,2025-04-19,Direct Mail,Website Contact Form,Commercial,Mumbai Central,2602999,3683838,62,Negotiation,142,7,0,24,False,0.0
+LD0087,2025-04-17,Cold Calls,Walk-in,Plot,Chennai,4834331,6446344,80,New,144,1,5,22,False,0.0
+LD0088,2025-07-26,Cold Calls,WhatsApp,Warehouse,Mumbai Central,1746174,2602286,89,Proposal Sent,44,4,3,24,False,0.0
+LD0089,2025-04-04,Cold Calls,Website Contact Form,Villa,Hyderabad,4012103,9443690,42,Lost,157,0,0,11,False,0.0
+LD0090,2025-03-26,Email Marketing,WhatsApp,Commercial,Chennai,4520853,10911492,61,Contacted,166,2,2,3,False,0.0
+LD0091,2025-08-15,Cold Calls,Email Response,Villa,Delhi NCR,2565258,4401116,94,Proposal Sent,24,7,4,22,False,0.0
+LD0092,2025-03-14,Direct Mail,WhatsApp,Plot,Chennai,4009487,9410995,39,Contacted,178,6,11,9,False,0.0
+LD0093,2025-07-06,Email Marketing,Phone Call,Commercial,Chennai,3005583,5979651,33,Proposal Sent,64,4,11,10,False,0.0
+LD0094,2025-03-17,Cold Calls,WhatsApp,Office Space,Delhi NCR,6301541,12173812,36,Converted,175,3,9,12,True,243476.24
+LD0095,2025-05-07,Organic Search,Email Response,Apartment,Hyderabad,2161401,12540254,62,Lost,124,4,12,15,False,0.0
+LD0096,2025-03-20,Referrals,Walk-in,Office Space,Delhi NCR,2973375,7481437,72,Converted,172,3,2,18,True,149628.74
+LD0097,2025-06-13,Email Marketing,Phone Call,Plot,Ahmedabad,3432227,14525187,67,Proposal Sent,87,7,1,5,False,0.0
+LD0098,2025-05-08,Cold Calls,Email Response,Warehouse,Mumbai Central,5315021,6436878,21,Proposal Sent,123,5,10,24,False,0.0
+LD0099,2025-08-31,Email Marketing,Email Response,Office Space,Pune,2488758,3817745,67,Lost,8,0,9,18,False,0.0
+LD0100,2025-06-03,Organic Search,Walk-in,Plot,Hyderabad,8350067,13762123,100,Converted,97,1,2,2,True,275242.46
+LD0101,2025-03-21,Email Marketing,Social Media DM,Villa,Delhi NCR,9110879,11018535,60,Converted,171,5,10,24,True,220370.7
+LD0102,2025-09-06,Cold Calls,Email Response,Apartment,Ahmedabad,9709880,12987766,83,Contacted,2,6,4,2,False,0.0
+LD0103,2025-09-04,Referrals,Phone Call,Office Space,Bangalore,2641827,3666893,81,Contacted,4,5,0,13,False,0.0
+LD0104,2025-05-21,Organic Search,Website Contact Form,Villa,Hyderabad,12228910,13119414,56,Proposal Sent,110,0,0,11,False,0.0
+LD0105,2025-05-13,Instagram Ads,Email Response,Villa,Ahmedabad,5409069,11837875,56,Negotiation,118,5,12,5,False,0.0
+LD0106,2025-08-11,Google Ads,WhatsApp,Plot,Ahmedabad,4427575,11063311,46,Contacted,28,1,10,1,False,0.0
+LD0107,2025-04-14,Google Ads,WhatsApp,Apartment,Pune,3726064,7431983,95,Contacted,147,0,2,24,False,0.0
+LD0108,2025-06-27,Facebook Ads,Walk-in,Warehouse,Chennai,2414811,8074006,87,Converted,73,7,8,8,True,161480.12
+LD0109,2025-08-16,Google Ads,Walk-in,Commercial,Hyderabad,1761310,7060517,86,Lost,23,0,7,13,False,0.0
+LD0110,2025-06-29,Facebook Ads,Social Media DM,Plot,Chennai,1811078,3355439,29,Proposal Sent,71,1,2,9,False,0.0
+LD0111,2025-08-18,Referrals,Social Media DM,Warehouse,Chennai,5108773,9612081,82,Negotiation,21,1,12,23,False,0.0
+LD0112,2025-04-10,Organic Search,Social Media DM,Commercial,Delhi NCR,4989574,7686328,87,Contacted,151,1,5,14,False,0.0
+LD0113,2025-05-31,Email Marketing,WhatsApp,Apartment,Ahmedabad,1679022,3126310,80,Lost,100,1,6,4,False,0.0
+LD0114,2025-06-15,Instagram Ads,Email Response,Plot,Hyderabad,3550700,11423483,100,Converted,85,6,5,22,True,228469.66
+LD0115,2025-06-28,Google Ads,WhatsApp,Warehouse,Pune,4095941,11695863,43,Qualified,72,7,3,4,False,0.0
+LD0116,2025-06-09,Referrals,Website Contact Form,Warehouse,Ahmedabad,8365462,9199311,73,Negotiation,91,8,0,20,False,0.0
+LD0117,2025-08-27,Email Marketing,Website Contact Form,Plot,Mumbai Central,3021740,7701311,59,Lost,12,2,9,22,False,0.0
+LD0118,2025-06-22,Facebook Ads,Phone Call,Warehouse,Pune,7811494,14517678,41,New,78,6,7,11,False,0.0
+LD0119,2025-04-21,Referrals,WhatsApp,Villa,Pune,2291083,2882629,45,Negotiation,140,0,10,3,False,0.0
+LD0120,2025-05-20,Direct Mail,Walk-in,Plot,Pune,7832922,8948850,86,Negotiation,111,8,1,12,False,0.0
+LD0121,2025-06-30,Facebook Ads,WhatsApp,Office Space,Bangalore,2261976,10840487,92,Negotiation,70,3,6,20,False,0.0
+LD0122,2025-03-26,Google Ads,Phone Call,Plot,Bangalore,7004979,14820492,47,Contacted,166,1,0,16,False,0.0
+LD0123,2025-06-30,Instagram Ads,Phone Call,Warehouse,Ahmedabad,7441939,10393009,59,Lost,70,1,6,24,False,0.0
+LD0124,2025-03-22,Cold Calls,Website Contact Form,Commercial,Chennai,8285090,11659635,70,New,170,6,4,4,False,0.0
+LD0125,2025-06-23,Google Ads,WhatsApp,Plot,Mumbai Central,8826807,13569736,88,Negotiation,77,1,3,14,False,0.0
+LD0126,2025-08-09,Cold Calls,Email Response,Plot,Pune,7087964,14512528,69,Converted,30,2,1,17,True,290250.56
+LD0127,2025-08-21,Facebook Ads,Email Response,Office Space,Ahmedabad,3977824,14203396,74,Qualified,18,3,1,5,False,0.0
+LD0128,2025-05-16,Organic Search,Phone Call,Office Space,Delhi NCR,3445960,4972018,44,Lost,115,7,10,19,False,0.0
+LD0129,2025-08-23,Referrals,Walk-in,Commercial,Delhi NCR,2135060,3145653,91,Converted,16,4,9,2,True,62913.06
+LD0130,2025-06-10,Facebook Ads,WhatsApp,Plot,Mumbai Central,6907854,8186390,37,New,90,1,9,20,False,0.0
+LD0131,2025-07-19,Cold Calls,Social Media DM,Warehouse,Hyderabad,3079067,9545279,35,Lost,51,5,9,16,False,0.0
+LD0132,2025-07-18,Instagram Ads,Website Contact Form,Office Space,Pune,2156695,10464927,40,Qualified,52,3,11,15,False,0.0
+LD0133,2025-07-02,Instagram Ads,WhatsApp,Plot,Hyderabad,6515430,8858012,79,Qualified,68,0,12,21,False,0.0
+LD0134,2025-08-24,Referrals,Website Contact Form,Commercial,Bangalore,5727787,13381316,100,Converted,15,2,5,3,True,267626.32
+LD0135,2025-08-08,Instagram Ads,WhatsApp,Warehouse,Hyderabad,1855337,4163449,70,Lost,31,4,8,13,False,0.0
+LD0136,2025-08-23,Referrals,Phone Call,Office Space,Hyderabad,2387947,3567880,100,Lost,16,8,5,1,False,0.0
+LD0137,2025-06-12,Email Marketing,Phone Call,Villa,Pune,2149887,5221313,82,Qualified,88,1,4,4,False,0.0
+LD0138,2025-07-19,Google Ads,Walk-in,Commercial,Pune,4222056,12020132,46,Negotiation,51,2,11,25,False,0.0
+LD0139,2025-08-18,Instagram Ads,Walk-in,Office Space,Pune,8952417,13347486,76,Proposal Sent,21,4,12,24,False,0.0
+LD0140,2025-07-04,Organic Search,Email Response,Plot,Hyderabad,3892512,5255051,95,Converted,66,7,7,25,True,105101.02
+LD0141,2025-05-23,Cold Calls,Email Response,Villa,Ahmedabad,5694357,12144569,55,Contacted,108,0,10,16,False,0.0
+LD0142,2025-06-15,Facebook Ads,Walk-in,Villa,Bangalore,2442290,3407191,56,New,85,8,2,14,False,0.0
+LD0143,2025-04-04,Organic Search,Social Media DM,Commercial,Chennai,1892127,2893502,88,New,157,3,6,3,False,0.0
+LD0144,2025-06-15,Organic Search,Website Contact Form,Villa,Mumbai Central,2703259,4450300,77,New,85,7,11,5,False,0.0
+LD0145,2025-09-08,Direct Mail,Social Media DM,Villa,Ahmedabad,2754261,6293691,22,New,0,8,11,20,False,0.0
+LD0146,2025-07-25,Cold Calls,Website Contact Form,Apartment,Pune,2380437,4044276,58,Contacted,45,7,1,4,False,0.0
+LD0147,2025-07-17,Google Ads,Walk-in,Commercial,Mumbai Central,4459635,6886733,38,Contacted,53,3,9,14,False,0.0
+LD0148,2025-04-28,Facebook Ads,Email Response,Warehouse,Ahmedabad,10016493,11128180,97,New,133,8,0,13,False,0.0
+LD0149,2025-07-10,Google Ads,Walk-in,Apartment,Bangalore,2633461,14537891,62,Qualified,60,5,3,24,False,0.0
+LD0150,2025-08-27,Facebook Ads,Email Response,Plot,Chennai,1854992,2743829,37,Qualified,12,2,12,22,False,0.0
+LD0151,2025-07-08,Direct Mail,Walk-in,Commercial,Mumbai Central,6423149,14013242,38,Contacted,62,3,0,7,False,0.0
+LD0152,2025-03-22,Referrals,WhatsApp,Apartment,Ahmedabad,3103091,6249899,95,Negotiation,170,4,5,25,False,0.0
+LD0153,2025-03-24,Referrals,WhatsApp,Commercial,Hyderabad,5188778,9330827,92,Converted,168,6,5,6,True,186616.54
+LD0154,2025-07-17,Direct Mail,WhatsApp,Office Space,Delhi NCR,1665521,3385991,54,Negotiation,53,6,9,6,False,0.0
+LD0155,2025-07-29,Email Marketing,WhatsApp,Plot,Bangalore,8981225,13088384,71,Converted,41,6,2,23,True,261767.68
+LD0156,2025-07-03,Referrals,Social Media DM,Commercial,Bangalore,2462308,12315496,90,Converted,67,1,10,21,True,246309.92
+LD0157,2025-06-23,Referrals,Email Response,Villa,Ahmedabad,1818543,2522452,55,Lost,77,7,0,5,False,0.0
+LD0158,2025-03-29,Organic Search,Walk-in,Warehouse,Pune,1971778,2543335,100,Proposal Sent,163,5,5,15,False,0.0
+LD0159,2025-03-31,Instagram Ads,Email Response,Apartment,Mumbai Central,4585644,6187788,55,Qualified,161,2,7,17,False,0.0
+LD0160,2025-06-19,Facebook Ads,WhatsApp,Warehouse,Bangalore,4410765,5599894,77,Lost,81,7,3,4,False,0.0
+LD0161,2025-04-15,Facebook Ads,Social Media DM,Office Space,Ahmedabad,2170224,3472884,76,Lost,146,5,11,3,False,0.0
+LD0162,2025-07-30,Email Marketing,WhatsApp,Warehouse,Pune,2518062,8064832,52,Lost,40,3,12,5,False,0.0
+LD0163,2025-05-11,Direct Mail,Website Contact Form,Warehouse,Pune,6633394,9841768,77,Negotiation,120,1,1,10,False,0.0
+LD0164,2025-06-21,Direct Mail,Email Response,Villa,Bangalore,1655535,3237331,93,Proposal Sent,79,7,7,22,False,0.0
+LD0165,2025-07-22,Referrals,Phone Call,Villa,Delhi NCR,3609163,5052834,100,Negotiation,48,0,1,17,False,0.0
+LD0166,2025-04-20,Email Marketing,Phone Call,Warehouse,Bangalore,2161524,7805303,48,Converted,141,4,3,21,True,156106.06
+LD0167,2025-07-31,Email Marketing,Phone Call,Warehouse,Hyderabad,1853655,3567468,88,Negotiation,39,2,2,22,False,0.0
+LD0168,2025-08-18,Referrals,Email Response,Apartment,Hyderabad,2709576,3362693,38,Converted,21,4,10,7,True,67253.86
+LD0169,2025-08-05,Cold Calls,Email Response,Office Space,Bangalore,5551234,6859883,89,Proposal Sent,34,3,12,22,False,0.0
+LD0170,2025-06-23,Email Marketing,Social Media DM,Commercial,Delhi NCR,3531096,4652149,27,Converted,77,7,3,11,True,93042.98
+LD0171,2025-08-14,Instagram Ads,WhatsApp,Villa,Ahmedabad,4608316,8689354,74,Qualified,25,8,8,4,False,0.0
+LD0172,2025-06-01,Organic Search,Social Media DM,Villa,Mumbai Central,1712253,6159388,92,Converted,99,4,6,20,True,123187.76000000001
+LD0173,2025-06-27,Organic Search,Phone Call,Villa,Delhi NCR,3658912,5184887,75,Negotiation,73,7,7,10,False,0.0
+LD0174,2025-07-17,Google Ads,Website Contact Form,Villa,Chennai,2980149,6038756,78,Negotiation,53,0,0,10,False,0.0
+LD0175,2025-07-16,Direct Mail,WhatsApp,Plot,Hyderabad,3034182,4247055,75,New,54,6,5,2,False,0.0
+LD0176,2025-06-22,Google Ads,Email Response,Apartment,Delhi NCR,5730001,6841933,90,Qualified,78,7,12,18,False,0.0
+LD0177,2025-05-22,Facebook Ads,Phone Call,Warehouse,Bangalore,2710202,7688907,67,Proposal Sent,109,3,9,17,False,0.0
+LD0178,2025-06-22,Google Ads,Website Contact Form,Warehouse,Delhi NCR,2749404,9948107,72,Converted,78,8,2,11,True,198962.14
+LD0179,2025-08-15,Referrals,Phone Call,Plot,Chennai,10051583,11961046,83,Negotiation,24,8,7,23,False,0.0
+LD0180,2025-08-03,Email Marketing,Social Media DM,Apartment,Delhi NCR,11292896,13304595,72,Qualified,36,4,12,24,False,0.0
+LD0181,2025-09-04,Google Ads,Email Response,Villa,Hyderabad,2361596,11691097,100,Lost,4,7,2,17,False,0.0
+LD0182,2025-08-20,Cold Calls,Phone Call,Office Space,Mumbai Central,4700829,11606135,34,Contacted,19,0,7,11,False,0.0
+LD0183,2025-06-27,Instagram Ads,Social Media DM,Commercial,Ahmedabad,2544906,12258899,94,Proposal Sent,73,2,8,7,False,0.0
+LD0184,2025-08-02,Referrals,Walk-in,Commercial,Chennai,2935823,4905518,75,Proposal Sent,37,8,5,22,False,0.0
+LD0185,2025-09-02,Email Marketing,Email Response,Plot,Pune,6493143,11363140,65,Contacted,6,4,11,7,False,0.0
+LD0186,2025-09-04,Direct Mail,WhatsApp,Apartment,Chennai,6056615,6828304,55,Negotiation,4,6,6,12,False,0.0
+LD0187,2025-04-18,Email Marketing,Website Contact Form,Commercial,Hyderabad,3651207,7811015,30,Lost,143,7,3,7,False,0.0
+LD0188,2025-07-27,Email Marketing,Email Response,Office Space,Chennai,5514486,12329346,43,Contacted,43,3,0,22,False,0.0
+LD0189,2025-07-25,Organic Search,Walk-in,Plot,Hyderabad,5462811,8934046,57,Converted,45,1,10,25,True,178680.92
+LD0190,2025-04-16,Google Ads,Email Response,Commercial,Delhi NCR,12414228,12953723,82,Contacted,145,3,12,10,False,0.0
+LD0191,2025-06-02,Email Marketing,Walk-in,Warehouse,Pune,10478365,12943756,41,Converted,98,0,2,14,True,258875.12
+LD0192,2025-04-26,Google Ads,Social Media DM,Apartment,Bangalore,2095551,2628578,57,Contacted,135,1,5,10,False,0.0
+LD0193,2025-07-06,Direct Mail,Phone Call,Apartment,Bangalore,2181550,5234838,54,Proposal Sent,64,7,10,9,False,0.0
+LD0194,2025-04-28,Google Ads,Walk-in,Villa,Pune,11750115,13314573,100,Qualified,133,6,6,17,False,0.0
+LD0195,2025-06-03,Facebook Ads,Social Media DM,Plot,Pune,1557295,10010350,47,Contacted,97,4,6,8,False,0.0
+LD0196,2025-07-04,Email Marketing,WhatsApp,Plot,Hyderabad,1594254,2191859,93,Lost,66,3,0,22,False,0.0
+LD0197,2025-04-11,Direct Mail,WhatsApp,Plot,Hyderabad,3469909,13803728,94,Lost,150,4,5,20,False,0.0
+LD0198,2025-05-07,Organic Search,Phone Call,Office Space,Chennai,5449592,8976731,92,Proposal Sent,124,8,12,22,False,0.0
+LD0199,2025-05-06,Organic Search,Walk-in,Warehouse,Hyderabad,4534871,9495187,100,New,125,1,9,4,False,0.0
+LD0200,2025-03-27,Organic Search,Email Response,Commercial,Mumbai Central,4946065,10729882,86,Contacted,165,7,1,17,False,0.0
+LD0201,2025-07-04,Google Ads,Social Media DM,Warehouse,Mumbai Central,6187530,9663806,83,Converted,66,7,10,10,True,193276.12
+LD0202,2025-03-17,Cold Calls,WhatsApp,Apartment,Mumbai Central,8608462,11702453,57,Lost,175,5,11,3,False,0.0
+LD0203,2025-07-28,Google Ads,Website Contact Form,Commercial,Pune,2636059,6816582,24,Proposal Sent,42,6,5,13,False,0.0
+LD0204,2025-07-04,Cold Calls,Social Media DM,Office Space,Ahmedabad,2958652,4231198,89,Lost,66,1,2,18,False,0.0
+LD0205,2025-06-20,Instagram Ads,Walk-in,Commercial,Hyderabad,6067138,7005700,22,New,80,6,8,13,False,0.0
+LD0206,2025-05-09,Organic Search,Social Media DM,Apartment,Mumbai Central,12576279,14163883,69,Qualified,122,6,9,25,False,0.0
+LD0207,2025-03-16,Organic Search,Phone Call,Warehouse,Hyderabad,7399592,9490038,49,Converted,176,0,3,24,True,189800.76
+LD0208,2025-03-23,Cold Calls,Social Media DM,Warehouse,Bangalore,2482144,4351084,27,Contacted,169,5,9,20,False,0.0
+LD0209,2025-08-31,Referrals,Phone Call,Warehouse,Pune,8438388,13076526,63,Converted,8,4,4,2,True,261530.52000000002
+LD0210,2025-08-01,Instagram Ads,Walk-in,Plot,Hyderabad,2203953,2786584,83,Negotiation,38,6,12,17,False,0.0
+LD0211,2025-06-01,Cold Calls,Social Media DM,Warehouse,Delhi NCR,5542775,14657001,53,Proposal Sent,99,3,4,23,False,0.0
+LD0212,2025-04-17,Direct Mail,Website Contact Form,Villa,Delhi NCR,5574489,10891787,100,Proposal Sent,144,4,3,11,False,0.0
+LD0213,2025-08-24,Facebook Ads,Social Media DM,Villa,Mumbai Central,6004038,14156514,98,New,15,6,10,20,False,0.0
+LD0214,2025-08-13,Google Ads,Website Contact Form,Commercial,Pune,2896553,5640933,91,Negotiation,26,4,0,7,False,0.0
+LD0215,2025-04-29,Facebook Ads,Walk-in,Warehouse,Hyderabad,4931161,13670672,61,Proposal Sent,132,6,3,18,False,0.0
+LD0216,2025-06-02,Email Marketing,Social Media DM,Plot,Bangalore,5801816,7174467,65,Lost,98,7,7,4,False,0.0
+LD0217,2025-07-10,Referrals,Phone Call,Villa,Hyderabad,3948176,11437598,50,Proposal Sent,60,0,4,18,False,0.0
+LD0218,2025-08-08,Cold Calls,WhatsApp,Warehouse,Ahmedabad,3561332,8372653,59,Qualified,31,7,8,21,False,0.0
+LD0219,2025-09-03,Referrals,WhatsApp,Villa,Hyderabad,8168737,9731427,100,Proposal Sent,5,5,2,5,False,0.0
+LD0220,2025-07-29,Direct Mail,Phone Call,Apartment,Ahmedabad,2747057,10790328,37,Negotiation,41,0,12,1,False,0.0
+LD0221,2025-06-25,Instagram Ads,Walk-in,Villa,Chennai,1619540,2153368,39,Lost,75,5,0,20,False,0.0
+LD0222,2025-08-22,Direct Mail,Walk-in,Commercial,Mumbai Central,1780618,11255043,98,New,17,8,11,9,False,0.0
+LD0223,2025-07-27,Email Marketing,Website Contact Form,Apartment,Mumbai Central,3699431,5007598,75,Lost,43,2,3,7,False,0.0
+LD0224,2025-08-17,Email Marketing,WhatsApp,Commercial,Delhi NCR,6239581,8258766,40,Proposal Sent,22,3,11,8,False,0.0
+LD0225,2025-05-27,Facebook Ads,Walk-in,Commercial,Delhi NCR,2290981,3568678,24,Lost,104,8,7,2,False,0.0
+LD0226,2025-08-22,Google Ads,Walk-in,Plot,Chennai,3099906,12819748,85,Proposal Sent,17,8,0,8,False,0.0
+LD0227,2025-05-05,Direct Mail,WhatsApp,Plot,Chennai,10954126,13482808,39,Converted,126,0,2,11,True,269656.16000000003
+LD0228,2025-03-16,Organic Search,Email Response,Plot,Pune,2682706,3290796,85,Converted,176,3,9,13,True,65815.92
+LD0229,2025-09-01,Referrals,Social Media DM,Office Space,Bangalore,2400876,10401909,55,Contacted,7,1,6,8,False,0.0
+LD0230,2025-03-31,Referrals,Email Response,Plot,Mumbai Central,12138817,14978097,95,Negotiation,161,4,12,15,False,0.0
+LD0231,2025-07-15,Organic Search,WhatsApp,Office Space,Chennai,4271058,5116163,90,Proposal Sent,55,6,1,25,False,0.0
+LD0232,2025-08-17,Email Marketing,Phone Call,Commercial,Hyderabad,2147084,4587398,54,New,22,6,5,12,False,0.0
+LD0233,2025-04-08,Facebook Ads,Website Contact Form,Plot,Mumbai Central,3723098,14773274,76,Proposal Sent,153,1,2,14,False,0.0
+LD0234,2025-07-04,Cold Calls,Website Contact Form,Apartment,Chennai,6943037,11298265,75,Converted,66,6,0,10,True,225965.30000000002
+LD0235,2025-06-25,Cold Calls,Website Contact Form,Warehouse,Pune,7887623,11595903,61,Negotiation,75,2,2,9,False,0.0
+LD0236,2025-05-28,Email Marketing,Social Media DM,Plot,Delhi NCR,4014504,9292657,51,Converted,103,7,12,3,True,185853.14
+LD0237,2025-06-12,Email Marketing,Phone Call,Apartment,Pune,4055656,9681643,55,Proposal Sent,88,0,6,11,False,0.0
+LD0238,2025-08-17,Cold Calls,WhatsApp,Plot,Chennai,3184864,7040467,37,Proposal Sent,22,7,5,6,False,0.0
+LD0239,2025-06-21,Referrals,WhatsApp,Villa,Bangalore,7809161,11661651,100,Lost,79,4,12,13,False,0.0
+LD0240,2025-06-13,Facebook Ads,Email Response,Warehouse,Mumbai Central,9244735,13437240,53,Negotiation,87,3,7,10,False,0.0
+LD0241,2025-09-05,Facebook Ads,Social Media DM,Plot,Hyderabad,2146523,6060441,58,Contacted,3,6,12,13,False,0.0
+LD0242,2025-03-30,Direct Mail,Email Response,Office Space,Delhi NCR,2116817,10499549,98,Proposal Sent,162,5,11,18,False,0.0
+LD0243,2025-08-11,Facebook Ads,Website Contact Form,Office Space,Chennai,1685793,4790696,65,Lost,28,6,12,11,False,0.0
+LD0244,2025-06-30,Facebook Ads,Website Contact Form,Office Space,Chennai,5208297,10567725,58,Converted,70,7,5,13,True,211354.5
+LD0245,2025-07-08,Instagram Ads,WhatsApp,Commercial,Mumbai Central,2473660,6956530,33,Proposal Sent,62,2,5,10,False,0.0
+LD0246,2025-06-07,Direct Mail,Phone Call,Commercial,Hyderabad,2961218,3637842,80,Qualified,93,7,5,3,False,0.0
+LD0247,2025-05-27,Google Ads,Walk-in,Apartment,Hyderabad,4257404,12871131,73,Converted,104,3,8,6,True,257422.62
+LD0248,2025-07-31,Instagram Ads,WhatsApp,Office Space,Pune,3063526,8795568,59,Proposal Sent,39,6,6,1,False,0.0
+LD0249,2025-08-16,Organic Search,Social Media DM,Villa,Pune,6169851,13823501,45,Proposal Sent,23,1,9,4,False,0.0
+LD0250,2025-07-27,Instagram Ads,WhatsApp,Office Space,Ahmedabad,5606089,6401559,34,Proposal Sent,43,8,10,11,False,0.0
+LD0251,2025-08-11,Cold Calls,Email Response,Commercial,Chennai,2947265,7905327,64,New,28,4,9,19,False,0.0
+LD0252,2025-04-02,Instagram Ads,WhatsApp,Plot,Hyderabad,2092900,5070977,34,Qualified,159,8,6,14,False,0.0
+LD0253,2025-08-11,Instagram Ads,Email Response,Warehouse,Hyderabad,4406397,12661948,92,Contacted,28,8,2,16,False,0.0
+LD0254,2025-05-24,Instagram Ads,Phone Call,Apartment,Delhi NCR,2645336,8023677,36,Proposal Sent,107,3,6,18,False,0.0
+LD0255,2025-07-19,Direct Mail,Social Media DM,Villa,Mumbai Central,6242900,10199017,86,Proposal Sent,51,0,12,25,False,0.0
+LD0256,2025-05-07,Email Marketing,Website Contact Form,Commercial,Chennai,3577494,4822078,56,Negotiation,124,8,8,4,False,0.0
+LD0257,2025-08-05,Facebook Ads,WhatsApp,Apartment,Ahmedabad,13562486,14696766,99,Qualified,34,7,8,7,False,0.0
+LD0258,2025-06-28,Facebook Ads,Walk-in,Commercial,Bangalore,1865509,2540736,58,Contacted,72,1,7,4,False,0.0
+LD0259,2025-05-11,Organic Search,Walk-in,Warehouse,Pune,2366625,4784709,89,Qualified,120,3,12,2,False,0.0
+LD0260,2025-08-04,Referrals,Email Response,Plot,Hyderabad,2727398,4824903,100,Converted,35,4,9,9,True,96498.06
+LD0261,2025-07-21,Facebook Ads,Phone Call,Office Space,Pune,2613091,6652716,27,Proposal Sent,49,3,2,23,False,0.0
+LD0262,2025-06-02,Organic Search,Walk-in,Plot,Hyderabad,8449543,12609944,100,Contacted,98,6,7,3,False,0.0
+LD0263,2025-08-21,Facebook Ads,Social Media DM,Commercial,Bangalore,6381796,9628527,77,Qualified,18,0,12,24,False,0.0
+LD0264,2025-04-04,Direct Mail,Walk-in,Commercial,Pune,8708215,10966154,38,Qualified,157,3,7,9,False,0.0
+LD0265,2025-06-02,Email Marketing,WhatsApp,Plot,Hyderabad,7894250,10142618,100,Contacted,98,0,0,4,False,0.0
+LD0266,2025-08-19,Direct Mail,Website Contact Form,Apartment,Delhi NCR,3197168,9659103,86,Contacted,20,2,10,10,False,0.0
+LD0267,2025-04-21,Email Marketing,Website Contact Form,Office Space,Hyderabad,2888525,8238503,40,Qualified,140,0,6,21,False,0.0
+LD0268,2025-05-29,Organic Search,Social Media DM,Villa,Delhi NCR,1502553,2018225,47,Lost,102,2,9,8,False,0.0
+LD0269,2025-07-22,Direct Mail,Website Contact Form,Commercial,Hyderabad,1777191,4023227,63,Converted,48,7,1,8,True,80464.54000000001
+LD0270,2025-06-18,Facebook Ads,Walk-in,Plot,Pune,4710496,8166661,70,New,82,2,10,22,False,0.0
+LD0271,2025-04-17,Facebook Ads,Email Response,Plot,Hyderabad,3287238,9383643,51,Negotiation,144,2,6,20,False,0.0
+LD0272,2025-09-03,Direct Mail,Phone Call,Apartment,Chennai,13747521,14623943,47,New,5,6,5,14,False,0.0
+LD0273,2025-05-31,Instagram Ads,Phone Call,Warehouse,Chennai,6280177,11284454,61,New,100,0,10,10,False,0.0
+LD0274,2025-05-03,Organic Search,Walk-in,Commercial,Delhi NCR,1972881,6015476,41,Lost,128,3,7,21,False,0.0
+LD0275,2025-08-11,Facebook Ads,Email Response,Villa,Delhi NCR,6267920,7309530,66,New,28,6,5,18,False,0.0
+LD0276,2025-09-02,Instagram Ads,Social Media DM,Apartment,Mumbai Central,5898739,11854324,32,New,6,3,0,2,False,0.0
+LD0277,2025-06-21,Email Marketing,Walk-in,Commercial,Mumbai Central,12246432,13774428,84,Proposal Sent,79,8,8,20,False,0.0
+LD0278,2025-04-20,Email Marketing,Website Contact Form,Warehouse,Bangalore,3138846,4606795,46,Negotiation,141,1,4,23,False,0.0
+LD0279,2025-07-01,Organic Search,Website Contact Form,Commercial,Chennai,2776814,3945931,90,Converted,69,0,4,22,True,78918.62
+LD0280,2025-08-27,Instagram Ads,Website Contact Form,Apartment,Pune,9828426,13769210,47,Converted,12,5,8,17,True,275384.2
+LD0281,2025-05-17,Instagram Ads,WhatsApp,Apartment,Bangalore,8702871,14942452,45,Qualified,114,4,8,3,False,0.0
+LD0282,2025-05-18,Facebook Ads,Social Media DM,Warehouse,Pune,4584388,10382064,37,Qualified,113,2,4,25,False,0.0
+LD0283,2025-04-07,Facebook Ads,Phone Call,Villa,Mumbai Central,1623670,2206159,25,New,154,5,6,5,False,0.0
+LD0284,2025-04-26,Google Ads,Email Response,Plot,Pune,3245906,5766741,73,Lost,135,5,4,3,False,0.0
+LD0285,2025-08-05,Referrals,Website Contact Form,Warehouse,Mumbai Central,3181600,5744423,57,New,34,1,7,10,False,0.0
+LD0286,2025-05-30,Referrals,Website Contact Form,Plot,Chennai,4790461,5366703,82,New,101,4,11,20,False,0.0
+LD0287,2025-05-13,Direct Mail,WhatsApp,Warehouse,Ahmedabad,5612546,14288695,55,Proposal Sent,118,2,0,14,False,0.0
+LD0288,2025-03-18,Organic Search,Email Response,Apartment,Ahmedabad,7013864,7620658,36,Lost,174,6,11,24,False,0.0
+LD0289,2025-05-29,Facebook Ads,Phone Call,Apartment,Pune,7469773,10254874,83,Contacted,102,4,1,2,False,0.0
+LD0290,2025-05-10,Cold Calls,Walk-in,Apartment,Chennai,3739990,11743714,40,Proposal Sent,121,6,1,19,False,0.0
+LD0291,2025-08-04,Google Ads,Social Media DM,Plot,Ahmedabad,4142486,6893511,50,Contacted,35,6,11,24,False,0.0
+LD0292,2025-06-03,Referrals,Social Media DM,Villa,Ahmedabad,4730229,5400953,44,Converted,97,1,2,4,True,108019.06
+LD0293,2025-04-23,Direct Mail,Social Media DM,Villa,Delhi NCR,4086272,8011065,98,New,138,7,4,4,False,0.0
+LD0294,2025-04-04,Instagram Ads,Walk-in,Plot,Pune,1882574,5607450,25,Lost,157,3,5,13,False,0.0
+LD0295,2025-07-21,Google Ads,Walk-in,Commercial,Chennai,7775336,8784575,33,Contacted,49,8,3,4,False,0.0
+LD0296,2025-07-08,Facebook Ads,Phone Call,Villa,Ahmedabad,3180161,4193037,48,New,62,5,10,21,False,0.0
+LD0297,2025-08-24,Facebook Ads,Email Response,Villa,Hyderabad,2429942,3081661,22,New,15,2,1,11,False,0.0
+LD0298,2025-04-12,Google Ads,Social Media DM,Office Space,Delhi NCR,5661809,9267158,100,Converted,149,0,6,22,True,185343.16
+LD0299,2025-06-29,Instagram Ads,WhatsApp,Commercial,Pune,1790660,6695180,55,Contacted,71,3,10,10,False,0.0
+LD0300,2025-07-17,Cold Calls,Email Response,Villa,Delhi NCR,3173173,8425930,65,New,53,8,3,21,False,0.0
+LD0301,2025-07-29,Google Ads,Social Media DM,Commercial,Bangalore,9928760,11135492,91,Qualified,41,5,6,9,False,0.0
+LD0302,2025-04-27,Google Ads,WhatsApp,Commercial,Chennai,1874795,2982997,55,New,134,3,2,4,False,0.0
+LD0303,2025-05-14,Organic Search,WhatsApp,Villa,Chennai,8016648,14818627,52,Lost,117,5,2,6,False,0.0
+LD0304,2025-05-11,Referrals,Walk-in,Office Space,Bangalore,11023609,13801980,48,Negotiation,120,2,9,7,False,0.0
+LD0305,2025-07-16,Email Marketing,Phone Call,Warehouse,Pune,1583584,5902772,27,New,54,8,7,1,False,0.0
+LD0306,2025-06-04,Organic Search,Phone Call,Apartment,Pune,2115104,2999183,76,Contacted,96,2,12,4,False,0.0
+LD0307,2025-07-24,Referrals,Website Contact Form,Apartment,Bangalore,6562779,11831728,95,Lost,46,5,2,6,False,0.0
+LD0308,2025-07-01,Direct Mail,Walk-in,Warehouse,Ahmedabad,7486539,13636012,100,Lost,69,3,10,19,False,0.0
+LD0309,2025-04-25,Cold Calls,WhatsApp,Office Space,Mumbai Central,4444436,4981450,36,Qualified,136,6,12,19,False,0.0
+LD0310,2025-03-20,Instagram Ads,Email Response,Warehouse,Mumbai Central,9824603,12731492,58,Negotiation,172,2,5,24,False,0.0
+LD0311,2025-03-31,Organic Search,WhatsApp,Office Space,Hyderabad,7132941,13894472,56,Contacted,161,7,0,9,False,0.0
+LD0312,2025-05-04,Organic Search,Walk-in,Office Space,Mumbai Central,1600972,3812519,67,Converted,127,6,7,24,True,76250.38
+LD0313,2025-06-27,Instagram Ads,Social Media DM,Commercial,Mumbai Central,9544494,11160762,74,Proposal Sent,73,3,2,15,False,0.0
+LD0314,2025-03-30,Google Ads,WhatsApp,Apartment,Bangalore,1856736,3756994,53,Converted,162,6,2,24,True,75139.88
+LD0315,2025-03-31,Facebook Ads,WhatsApp,Apartment,Delhi NCR,12466178,13819626,91,Negotiation,161,2,9,14,False,0.0
+LD0316,2025-04-21,Google Ads,Website Contact Form,Warehouse,Hyderabad,10561801,13697019,82,Contacted,140,4,10,10,False,0.0
+LD0317,2025-05-27,Organic Search,Website Contact Form,Commercial,Pune,2414439,11221808,100,Converted,104,5,0,14,True,224436.16
+LD0318,2025-04-03,Email Marketing,Walk-in,Apartment,Pune,1858261,3627170,45,Proposal Sent,158,4,1,16,False,0.0
+LD0319,2025-04-10,Email Marketing,Social Media DM,Office Space,Chennai,2312703,3529023,53,Lost,151,2,5,13,False,0.0
+LD0320,2025-06-14,Instagram Ads,Social Media DM,Plot,Pune,8521925,9802377,86,Converted,86,4,9,2,True,196047.54
+LD0321,2025-04-19,Facebook Ads,Website Contact Form,Warehouse,Pune,10787898,14691240,82,Negotiation,142,0,6,17,False,0.0
+LD0322,2025-06-27,Direct Mail,Email Response,Commercial,Ahmedabad,1572830,3324645,58,Proposal Sent,73,8,9,17,False,0.0
+LD0323,2025-08-05,Instagram Ads,Website Contact Form,Villa,Ahmedabad,2308351,4804559,42,Proposal Sent,34,2,0,14,False,0.0
+LD0324,2025-04-01,Cold Calls,Phone Call,Plot,Bangalore,2624274,11983243,48,Lost,160,1,6,18,False,0.0
+LD0325,2025-06-21,Referrals,WhatsApp,Commercial,Mumbai Central,8453189,10767135,100,New,79,2,2,19,False,0.0
+LD0326,2025-08-09,Facebook Ads,Website Contact Form,Plot,Delhi NCR,5931477,10986438,66,New,30,6,10,16,False,0.0
+LD0327,2025-08-05,Direct Mail,Website Contact Form,Warehouse,Hyderabad,8239741,12372421,48,Proposal Sent,34,0,6,11,False,0.0
+LD0328,2025-09-04,Organic Search,Website Contact Form,Plot,Ahmedabad,1658888,2339451,82,Qualified,4,4,4,16,False,0.0
+LD0329,2025-09-06,Facebook Ads,Phone Call,Plot,Bangalore,13727225,14986083,86,Lost,2,6,9,21,False,0.0
+LD0330,2025-04-03,Organic Search,Social Media DM,Commercial,Ahmedabad,10165455,14430990,97,Converted,158,5,0,17,True,288619.8
+LD0331,2025-04-21,Facebook Ads,WhatsApp,Warehouse,Mumbai Central,4414829,10796063,47,Proposal Sent,140,3,3,2,False,0.0
+LD0332,2025-05-14,Google Ads,Social Media DM,Villa,Bangalore,7679919,13821795,76,Converted,117,7,8,13,True,276435.9
+LD0333,2025-08-21,Facebook Ads,Walk-in,Warehouse,Delhi NCR,2989679,10200480,77,Converted,18,7,9,18,True,204009.6
+LD0334,2025-06-09,Referrals,Phone Call,Apartment,Delhi NCR,1916503,6782670,46,Qualified,91,2,9,25,False,0.0
+LD0335,2025-05-05,Organic Search,Walk-in,Office Space,Delhi NCR,5805715,6514473,61,Converted,126,0,12,25,True,130289.46
+LD0336,2025-09-02,Google Ads,Social Media DM,Apartment,Pune,5734408,12085488,52,Lost,6,4,11,23,False,0.0
+LD0337,2025-08-23,Email Marketing,Social Media DM,Villa,Delhi NCR,4034576,6227836,78,Qualified,16,8,9,13,False,0.0
+LD0338,2025-08-08,Facebook Ads,Website Contact Form,Office Space,Chennai,6242531,11419687,77,Lost,31,4,10,4,False,0.0
+LD0339,2025-07-13,Facebook Ads,WhatsApp,Plot,Hyderabad,4006441,6645358,61,Lost,57,3,2,17,False,0.0
+LD0340,2025-05-12,Google Ads,Email Response,Apartment,Hyderabad,9844531,14101124,47,Qualified,119,4,4,14,False,0.0
+LD0341,2025-06-23,Cold Calls,Walk-in,Plot,Hyderabad,4492087,5186247,93,Converted,77,3,10,18,True,103724.94
+LD0342,2025-08-22,Direct Mail,Walk-in,Warehouse,Pune,6428878,13032943,51,Qualified,17,1,7,5,False,0.0
+LD0343,2025-05-17,Instagram Ads,Walk-in,Plot,Pune,4621442,5728795,31,Lost,114,4,6,11,False,0.0
+LD0344,2025-06-15,Email Marketing,Email Response,Office Space,Chennai,2108502,2900549,80,New,85,1,7,7,False,0.0
+LD0345,2025-07-18,Facebook Ads,Walk-in,Villa,Pune,1710026,2907009,72,Qualified,52,5,6,19,False,0.0
+LD0346,2025-07-07,Instagram Ads,WhatsApp,Plot,Hyderabad,2983309,10180249,40,Contacted,63,5,10,2,False,0.0
+LD0347,2025-03-13,Direct Mail,WhatsApp,Villa,Delhi NCR,14310564,14825908,100,Contacted,179,1,2,20,False,0.0
+LD0348,2025-07-01,Cold Calls,Social Media DM,Apartment,Chennai,1526137,2078335,69,Proposal Sent,69,5,0,11,False,0.0
+LD0349,2025-07-25,Organic Search,Website Contact Form,Office Space,Bangalore,2809009,5796108,66,Lost,45,2,1,13,False,0.0
+LD0350,2025-07-18,Email Marketing,Phone Call,Plot,Delhi NCR,5864495,7003003,25,Converted,52,8,5,14,True,140060.06
+LD0351,2025-09-03,Instagram Ads,WhatsApp,Villa,Pune,8267788,14584851,75,Proposal Sent,5,0,3,8,False,0.0
+LD0352,2025-04-14,Organic Search,Walk-in,Apartment,Bangalore,4228564,4835093,99,Converted,147,0,6,21,True,96701.86
+LD0353,2025-05-16,Google Ads,Email Response,Apartment,Mumbai Central,3442630,12965045,43,Lost,115,6,7,13,False,0.0
+LD0354,2025-04-12,Email Marketing,Social Media DM,Commercial,Hyderabad,2347080,7051895,21,Contacted,149,8,4,20,False,0.0
+LD0355,2025-08-14,Instagram Ads,Social Media DM,Warehouse,Mumbai Central,6243032,14058896,95,New,25,1,12,4,False,0.0
+LD0356,2025-07-17,Organic Search,Email Response,Villa,Bangalore,8374568,10776935,78,Converted,53,4,2,2,True,215538.7
+LD0357,2025-07-30,Direct Mail,Phone Call,Apartment,Mumbai Central,4317033,5934345,62,Proposal Sent,40,1,1,19,False,0.0
+LD0358,2025-08-30,Direct Mail,Phone Call,Office Space,Mumbai Central,5793157,14139383,39,Negotiation,9,3,7,10,False,0.0
+LD0359,2025-05-18,Direct Mail,Website Contact Form,Plot,Ahmedabad,4123177,6874908,25,Contacted,113,6,11,4,False,0.0
+LD0360,2025-04-05,Google Ads,Website Contact Form,Plot,Delhi NCR,6716095,7514013,41,Lost,156,4,11,3,False,0.0
+LD0361,2025-06-15,Referrals,Phone Call,Plot,Ahmedabad,4735616,9659448,96,Converted,85,7,12,14,True,193188.96
+LD0362,2025-08-25,Instagram Ads,Website Contact Form,Apartment,Delhi NCR,3977786,4674211,27,Lost,14,7,12,19,False,0.0
+LD0363,2025-09-01,Direct Mail,Phone Call,Office Space,Pune,9604731,13483402,33,Qualified,7,7,1,14,False,0.0
+LD0364,2025-07-02,Google Ads,Website Contact Form,Office Space,Chennai,11174564,13820692,31,Qualified,68,3,10,11,False,0.0
+LD0365,2025-07-22,Facebook Ads,Social Media DM,Office Space,Hyderabad,6880490,7800713,81,Contacted,48,6,2,18,False,0.0
+LD0366,2025-08-15,Google Ads,Website Contact Form,Commercial,Ahmedabad,2887508,9873361,94,Contacted,24,1,12,16,False,0.0
+LD0367,2025-06-02,Organic Search,WhatsApp,Warehouse,Hyderabad,3088121,5736395,99,New,98,6,3,3,False,0.0
+LD0368,2025-07-07,Direct Mail,Email Response,Apartment,Delhi NCR,1649058,7302632,77,Proposal Sent,63,1,6,14,False,0.0
+LD0369,2025-03-21,Google Ads,Website Contact Form,Warehouse,Pune,9153898,10528492,68,Negotiation,171,5,5,2,False,0.0
+LD0370,2025-05-08,Direct Mail,WhatsApp,Office Space,Bangalore,13511035,14023527,90,Negotiation,123,7,1,4,False,0.0
+LD0371,2025-08-27,Organic Search,Website Contact Form,Warehouse,Bangalore,3283791,11188723,82,Lost,12,0,2,16,False,0.0
+LD0372,2025-04-16,Cold Calls,Website Contact Form,Commercial,Pune,2458494,4025778,44,Contacted,145,3,11,11,False,0.0
+LD0373,2025-04-08,Cold Calls,Website Contact Form,Commercial,Delhi NCR,2880883,4067274,95,Lost,153,8,2,16,False,0.0
+LD0374,2025-03-13,Google Ads,Email Response,Villa,Hyderabad,4413368,10528410,91,Negotiation,179,2,1,13,False,0.0
+LD0375,2025-08-27,Referrals,Email Response,Commercial,Bangalore,3967706,6590177,66,Proposal Sent,12,7,12,5,False,0.0
+LD0376,2025-04-16,Cold Calls,Email Response,Office Space,Chennai,4133274,7014930,85,Lost,145,8,10,7,False,0.0
+LD0377,2025-05-02,Organic Search,Email Response,Villa,Hyderabad,12406639,13280559,89,Lost,129,2,8,18,False,0.0
+LD0378,2025-09-05,Referrals,Walk-in,Commercial,Chennai,8504117,11433496,90,Converted,3,8,4,14,True,228669.92
+LD0379,2025-03-15,Facebook Ads,Website Contact Form,Plot,Ahmedabad,4794760,5353806,27,New,177,2,4,22,False,0.0
+LD0380,2025-05-15,Instagram Ads,Website Contact Form,Warehouse,Mumbai Central,7517692,14643208,56,Qualified,116,7,1,20,False,0.0
+LD0381,2025-08-31,Organic Search,Walk-in,Office Space,Bangalore,2288191,10571853,75,Proposal Sent,8,6,6,14,False,0.0
+LD0382,2025-09-03,Referrals,Email Response,Warehouse,Ahmedabad,4775436,5407238,67,Converted,5,7,3,21,True,108144.76000000001
+LD0383,2025-09-08,Referrals,Email Response,Villa,Bangalore,9029864,14162047,70,Negotiation,0,2,10,3,False,0.0
+LD0384,2025-04-28,Instagram Ads,Walk-in,Plot,Chennai,3716602,9189168,35,Proposal Sent,133,2,2,19,False,0.0
+LD0385,2025-05-16,Google Ads,WhatsApp,Plot,Chennai,1713303,4578714,25,Contacted,115,4,7,19,False,0.0
+LD0386,2025-07-30,Referrals,Website Contact Form,Villa,Chennai,1785952,5690350,100,Qualified,40,8,2,14,False,0.0
+LD0387,2025-07-29,Cold Calls,Website Contact Form,Plot,Bangalore,3332451,7554374,62,Contacted,41,8,7,18,False,0.0
+LD0388,2025-08-25,Google Ads,Website Contact Form,Warehouse,Chennai,5590740,12775407,60,Proposal Sent,14,0,10,11,False,0.0
+LD0389,2025-06-17,Facebook Ads,Social Media DM,Warehouse,Ahmedabad,1903960,2414493,56,Lost,83,5,8,17,False,0.0
+LD0390,2025-07-04,Direct Mail,Website Contact Form,Warehouse,Mumbai Central,2304940,7373956,44,Lost,66,2,12,18,False,0.0
+LD0391,2025-07-26,Google Ads,Walk-in,Commercial,Ahmedabad,3243602,13499190,57,Converted,44,3,8,23,True,269983.8
+LD0392,2025-07-01,Facebook Ads,Walk-in,Plot,Mumbai Central,2968357,14027054,88,New,69,1,0,6,False,0.0
+LD0393,2025-05-15,Facebook Ads,Email Response,Commercial,Hyderabad,4892755,8510106,82,Qualified,116,6,5,1,False,0.0
+LD0394,2025-06-19,Facebook Ads,Email Response,Office Space,Chennai,2263646,14682914,38,Converted,81,1,5,17,True,293658.28
+LD0395,2025-04-08,Email Marketing,Walk-in,Commercial,Delhi NCR,8128900,14839171,66,New,153,0,7,6,False,0.0
+LD0396,2025-07-26,Organic Search,Phone Call,Villa,Bangalore,7760091,12637521,82,Negotiation,44,0,8,18,False,0.0
+LD0397,2025-04-17,Facebook Ads,Website Contact Form,Warehouse,Mumbai Central,6611869,11011915,80,Converted,144,3,11,24,True,220238.30000000002
+LD0398,2025-06-08,Organic Search,Social Media DM,Villa,Pune,4087402,4700366,53,Negotiation,92,4,3,4,False,0.0
+LD0399,2025-04-27,Google Ads,Email Response,Office Space,Mumbai Central,3602920,6876342,29,Negotiation,134,1,3,24,False,0.0
+LD0400,2025-08-07,Direct Mail,WhatsApp,Plot,Chennai,1646399,3678477,50,Lost,32,3,5,16,False,0.0
+LD0401,2025-07-05,Referrals,Email Response,Warehouse,Chennai,3028796,4556763,100,Lost,65,5,6,6,False,0.0
+LD0402,2025-03-13,Referrals,Phone Call,Plot,Pune,4281351,6641917,90,Lost,179,7,7,15,False,0.0
+LD0403,2025-06-11,Email Marketing,Social Media DM,Villa,Chennai,3147790,6707954,30,Contacted,89,4,11,21,False,0.0
+LD0404,2025-03-31,Facebook Ads,Website Contact Form,Warehouse,Delhi NCR,5069531,11762502,33,Lost,161,0,8,9,False,0.0
+LD0405,2025-07-29,Direct Mail,Walk-in,Warehouse,Hyderabad,5095207,5746463,70,Qualified,41,4,2,15,False,0.0
+LD0406,2025-07-18,Facebook Ads,Social Media DM,Office Space,Pune,10125782,12301814,60,New,52,2,7,6,False,0.0
+LD0407,2025-04-26,Instagram Ads,Walk-in,Commercial,Pune,1763658,5671175,25,Qualified,135,4,5,8,False,0.0
+LD0408,2025-03-22,Organic Search,Email Response,Commercial,Mumbai Central,1834744,9879825,94,Qualified,170,5,1,23,False,0.0
+LD0409,2025-07-23,Email Marketing,Walk-in,Commercial,Hyderabad,3087621,4916715,92,Negotiation,47,5,9,21,False,0.0
+LD0410,2025-03-31,Email Marketing,Social Media DM,Plot,Ahmedabad,4394340,8808902,96,Contacted,161,7,12,16,False,0.0
+LD0411,2025-08-13,Google Ads,Email Response,Apartment,Chennai,4198938,5858604,41,Proposal Sent,26,4,3,5,False,0.0
+LD0412,2025-04-28,Instagram Ads,WhatsApp,Plot,Hyderabad,2450753,8956063,59,New,133,7,10,16,False,0.0
+LD0413,2025-07-12,Organic Search,Email Response,Villa,Mumbai Central,1567048,2376582,87,Converted,58,2,2,21,True,47531.64
+LD0414,2025-07-21,Google Ads,Email Response,Villa,Chennai,4901214,6332877,41,Converted,49,0,11,24,True,126657.54000000001
+LD0415,2025-08-28,Email Marketing,Website Contact Form,Villa,Pune,8465594,10081054,90,Negotiation,11,6,9,5,False,0.0
+LD0416,2025-08-08,Instagram Ads,Email Response,Office Space,Bangalore,9107966,14149838,51,Qualified,31,1,3,13,False,0.0
+LD0417,2025-06-18,Instagram Ads,Website Contact Form,Office Space,Delhi NCR,4009220,10461748,96,Converted,82,1,2,16,True,209234.96
+LD0418,2025-08-16,Google Ads,Email Response,Office Space,Pune,9066396,10090660,41,New,23,8,0,25,False,0.0
+LD0419,2025-09-01,Cold Calls,Email Response,Villa,Ahmedabad,5544344,9196691,97,New,7,6,5,19,False,0.0
+LD0420,2025-09-06,Facebook Ads,Social Media DM,Plot,Chennai,2640286,3406225,49,Proposal Sent,2,6,4,7,False,0.0
+LD0421,2025-03-13,Google Ads,Email Response,Office Space,Pune,7269405,8291957,30,Negotiation,179,5,6,12,False,0.0
+LD0422,2025-04-08,Instagram Ads,Social Media DM,Commercial,Chennai,7634489,10994347,63,Qualified,153,4,10,13,False,0.0
+LD0423,2025-05-03,Cold Calls,Email Response,Warehouse,Chennai,5558074,8211142,52,Proposal Sent,128,4,4,19,False,0.0
+LD0424,2025-06-08,Cold Calls,Walk-in,Villa,Delhi NCR,13232499,14546240,45,Lost,92,2,1,7,False,0.0
+LD0425,2025-07-20,Cold Calls,WhatsApp,Commercial,Hyderabad,1522190,4696736,26,Negotiation,50,1,2,16,False,0.0
+LD0426,2025-08-12,Cold Calls,Website Contact Form,Apartment,Chennai,1816714,8221581,58,Converted,27,6,6,20,True,164431.62
+LD0427,2025-08-26,Email Marketing,Walk-in,Commercial,Delhi NCR,1679690,12742305,52,New,13,3,10,17,False,0.0
+LD0428,2025-05-24,Organic Search,Website Contact Form,Villa,Chennai,4343451,13718042,100,Negotiation,107,0,5,8,False,0.0
+LD0429,2025-08-26,Google Ads,Phone Call,Plot,Hyderabad,4814700,8701385,65,Converted,13,6,9,7,True,174027.7
+LD0430,2025-07-22,Google Ads,Walk-in,Office Space,Ahmedabad,6190187,6773013,90,New,48,5,5,9,False,0.0
+LD0431,2025-05-08,Organic Search,Social Media DM,Villa,Delhi NCR,5746632,6380657,35,Negotiation,123,1,8,3,False,0.0
+LD0432,2025-07-18,Email Marketing,WhatsApp,Warehouse,Bangalore,8928425,11024521,62,Negotiation,52,6,9,16,False,0.0
+LD0433,2025-05-13,Referrals,Social Media DM,Apartment,Bangalore,2066686,10086117,48,Negotiation,118,6,10,8,False,0.0
+LD0434,2025-09-01,Organic Search,WhatsApp,Apartment,Hyderabad,5918274,10986747,100,Qualified,7,3,4,3,False,0.0
+LD0435,2025-06-22,Referrals,Website Contact Form,Plot,Pune,6312650,7265911,95,Contacted,78,4,2,24,False,0.0
+LD0436,2025-09-02,Organic Search,Social Media DM,Villa,Pune,3200929,6452763,65,Contacted,6,3,9,12,False,0.0
+LD0437,2025-04-20,Facebook Ads,Website Contact Form,Apartment,Ahmedabad,10584425,12298307,93,Lost,141,0,7,12,False,0.0
+LD0438,2025-08-17,Referrals,Social Media DM,Villa,Ahmedabad,9184022,10234347,80,Negotiation,22,8,4,13,False,0.0
+LD0439,2025-05-07,Instagram Ads,Website Contact Form,Apartment,Chennai,7326541,11072580,91,Proposal Sent,124,6,10,25,False,0.0
+LD0440,2025-04-25,Direct Mail,Website Contact Form,Apartment,Mumbai Central,12809572,13563034,70,Proposal Sent,136,3,6,19,False,0.0
+LD0441,2025-04-06,Referrals,WhatsApp,Plot,Pune,6019920,11203366,68,Qualified,155,7,9,11,False,0.0
+LD0442,2025-06-13,Instagram Ads,Social Media DM,Commercial,Bangalore,5280988,8124992,77,Proposal Sent,87,2,9,5,False,0.0
+LD0443,2025-08-06,Organic Search,Website Contact Form,Commercial,Pune,2723425,9251427,100,Contacted,33,2,7,1,False,0.0
+LD0444,2025-04-26,Cold Calls,Social Media DM,Office Space,Bangalore,9664132,10958741,96,Lost,135,4,4,18,False,0.0
+LD0445,2025-08-04,Google Ads,Social Media DM,Villa,Ahmedabad,1766642,3007243,40,Converted,35,7,10,4,True,60144.86
+LD0446,2025-07-05,Referrals,WhatsApp,Plot,Mumbai Central,4954100,6323737,100,Negotiation,65,1,5,22,False,0.0
+LD0447,2025-08-14,Organic Search,Email Response,Plot,Bangalore,2863527,4928275,100,Lost,25,8,7,25,False,0.0
+LD0448,2025-07-04,Facebook Ads,Social Media DM,Office Space,Ahmedabad,2915109,4811450,38,Proposal Sent,66,6,10,20,False,0.0
+LD0449,2025-08-05,Cold Calls,Website Contact Form,Plot,Bangalore,4238935,5828861,63,Converted,34,4,11,9,True,116577.22
+LD0450,2025-08-13,Cold Calls,WhatsApp,Commercial,Delhi NCR,4307132,10739850,100,Qualified,26,2,0,5,False,0.0
+LD0451,2025-05-11,Email Marketing,Walk-in,Commercial,Mumbai Central,1900781,4800292,46,New,120,1,7,18,False,0.0
+LD0452,2025-03-25,Google Ads,Social Media DM,Warehouse,Pune,2207254,6403218,33,New,167,6,4,8,False,0.0
+LD0453,2025-05-14,Email Marketing,Social Media DM,Apartment,Mumbai Central,4283126,4862327,87,Contacted,117,5,5,16,False,0.0
+LD0454,2025-07-09,Email Marketing,Email Response,Warehouse,Chennai,3414881,4970181,89,Lost,61,6,8,21,False,0.0
+LD0455,2025-08-22,Email Marketing,WhatsApp,Plot,Bangalore,4957816,9413185,41,Contacted,17,4,2,10,False,0.0
+LD0456,2025-03-14,Google Ads,Email Response,Commercial,Chennai,1569768,6811072,64,Contacted,178,7,12,16,False,0.0
+LD0457,2025-05-27,Google Ads,Social Media DM,Warehouse,Bangalore,1524716,2121097,49,Negotiation,104,6,8,14,False,0.0
+LD0458,2025-06-21,Organic Search,Phone Call,Villa,Bangalore,2164459,8347794,94,Lost,79,6,10,8,False,0.0
+LD0459,2025-07-22,Email Marketing,WhatsApp,Villa,Ahmedabad,2074317,8927377,64,Negotiation,48,2,2,10,False,0.0
+LD0460,2025-04-09,Direct Mail,Email Response,Plot,Mumbai Central,2138160,5150584,82,Lost,152,0,8,1,False,0.0
+LD0461,2025-04-28,Facebook Ads,WhatsApp,Apartment,Pune,3013254,14198832,86,Lost,133,2,0,16,False,0.0
+LD0462,2025-05-06,Referrals,Social Media DM,Commercial,Hyderabad,1766230,8231009,100,Converted,125,5,1,25,True,164620.18
+LD0463,2025-04-18,Google Ads,WhatsApp,Villa,Pune,9013667,9887754,99,New,143,4,6,1,False,0.0
+LD0464,2025-04-12,Organic Search,Social Media DM,Apartment,Pune,9231522,14375193,76,Proposal Sent,149,1,8,22,False,0.0
+LD0465,2025-05-04,Direct Mail,Social Media DM,Office Space,Hyderabad,1676940,4661058,61,Qualified,127,8,8,4,False,0.0
+LD0466,2025-05-15,Direct Mail,Walk-in,Villa,Mumbai Central,5458849,13185282,36,Qualified,116,6,5,1,False,0.0
+LD0467,2025-04-23,Email Marketing,Email Response,Apartment,Chennai,1624589,2149818,51,Converted,138,2,5,25,True,42996.36
+LD0468,2025-04-03,Organic Search,Phone Call,Office Space,Mumbai Central,2502860,14743304,88,Lost,158,5,10,5,False,0.0
+LD0469,2025-09-07,Facebook Ads,Phone Call,Plot,Ahmedabad,8860481,12815364,100,Qualified,1,3,0,23,False,0.0
+LD0470,2025-06-16,Referrals,Walk-in,Office Space,Delhi NCR,6189439,10142018,50,Converted,84,4,8,23,True,202840.36000000002
+LD0471,2025-07-15,Organic Search,Email Response,Office Space,Delhi NCR,3809588,7430463,79,Converted,55,8,2,3,True,148609.26
+LD0472,2025-07-25,Instagram Ads,Social Media DM,Commercial,Mumbai Central,6852150,8159129,99,Qualified,45,8,6,24,False,0.0
+LD0473,2025-04-28,Google Ads,Email Response,Office Space,Mumbai Central,6021094,7380354,50,Negotiation,133,6,3,17,False,0.0
+LD0474,2025-09-02,Direct Mail,Email Response,Office Space,Bangalore,2426640,8875379,71,Qualified,6,1,8,22,False,0.0
+LD0475,2025-03-29,Google Ads,Phone Call,Commercial,Pune,1707101,3796087,45,New,163,0,9,21,False,0.0
+LD0476,2025-06-19,Direct Mail,Email Response,Plot,Pune,2135388,2823520,52,Negotiation,81,1,0,7,False,0.0
+LD0477,2025-08-26,Direct Mail,Website Contact Form,Warehouse,Hyderabad,4989268,8055334,37,Lost,13,5,12,23,False,0.0
+LD0478,2025-03-26,Email Marketing,Email Response,Apartment,Pune,5857758,7098672,29,Converted,166,1,1,24,True,141973.44
+LD0479,2025-05-10,Cold Calls,Phone Call,Office Space,Pune,10868791,11563477,61,Lost,121,8,6,24,False,0.0
+LD0480,2025-04-08,Referrals,Walk-in,Villa,Ahmedabad,1878318,3746548,89,Lost,153,8,6,17,False,0.0
+LD0481,2025-06-06,Instagram Ads,Email Response,Warehouse,Bangalore,4618209,7287423,65,Proposal Sent,94,6,12,21,False,0.0
+LD0482,2025-06-30,Referrals,Email Response,Commercial,Ahmedabad,3807868,5589118,100,Converted,70,4,5,15,True,111782.36
+LD0483,2025-07-04,Cold Calls,Website Contact Form,Villa,Bangalore,1610206,10684044,32,Qualified,66,4,3,7,False,0.0
+LD0484,2025-05-31,Google Ads,Walk-in,Warehouse,Chennai,4095683,11333552,95,Negotiation,100,1,0,15,False,0.0
+LD0485,2025-06-11,Instagram Ads,Phone Call,Plot,Ahmedabad,2759559,5908993,51,Negotiation,89,1,9,13,False,0.0
+LD0486,2025-08-04,Organic Search,Walk-in,Villa,Delhi NCR,8426517,10095563,86,Converted,35,1,9,21,True,201911.26
+LD0487,2025-05-27,Google Ads,Walk-in,Plot,Bangalore,2422529,2938227,30,Proposal Sent,104,6,6,4,False,0.0
+LD0488,2025-05-09,Google Ads,Walk-in,Warehouse,Mumbai Central,4178621,7113416,26,Proposal Sent,122,8,9,5,False,0.0
+LD0489,2025-06-03,Organic Search,Phone Call,Warehouse,Chennai,5733976,9476199,95,Converted,97,1,3,14,True,189523.98
+LD0490,2025-05-25,Cold Calls,Phone Call,Office Space,Mumbai Central,10696471,11587182,90,New,106,6,4,3,False,0.0
+LD0491,2025-06-22,Cold Calls,Walk-in,Villa,Delhi NCR,8132348,11383432,91,Contacted,78,3,8,20,False,0.0
+LD0492,2025-07-24,Organic Search,Phone Call,Office Space,Chennai,2251574,7425946,90,Converted,46,1,10,14,True,148518.92
+LD0493,2025-06-28,Referrals,WhatsApp,Office Space,Mumbai Central,6614011,11963605,89,Converted,72,2,5,20,True,239272.1
+LD0494,2025-07-03,Instagram Ads,Social Media DM,Office Space,Bangalore,2154274,5350161,49,Converted,67,1,1,24,True,107003.22
+LD0495,2025-03-25,Organic Search,Email Response,Office Space,Ahmedabad,2433467,7759137,36,Qualified,167,4,7,16,False,0.0
+LD0496,2025-03-17,Referrals,Phone Call,Warehouse,Ahmedabad,5839561,11167477,71,Contacted,175,8,7,20,False,0.0
+LD0497,2025-04-17,Google Ads,Social Media DM,Plot,Pune,1563029,2729507,87,Lost,144,4,3,23,False,0.0
+LD0498,2025-08-17,Email Marketing,Website Contact Form,Office Space,Bangalore,7061493,8520383,38,New,22,5,1,1,False,0.0
+LD0499,2025-05-25,Cold Calls,Phone Call,Commercial,Ahmedabad,6508891,7292472,32,Negotiation,106,8,1,6,False,0.0
+LD0500,2025-05-01,Direct Mail,Email Response,Warehouse,Bangalore,2899092,6150551,25,New,130,7,6,24,False,0.0

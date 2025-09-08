@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Realty Reach - Marketing Analytics Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header__brand">
+                <h1 class="logo">Realty Reach</h1>
+                <p class="tagline">Digital Marketing for Real Estate Success</p>
+            </div>
+            <div class="header__controls">
+                <div class="date-selector">
+                    <button class="btn btn--sm date-btn active" data-period="30">Last 30 Days</button>
+                    <button class="btn btn--sm date-btn" data-period="60">Last 60 Days</button>
+                    <button class="btn btn--sm date-btn" data-period="180">Last 6 Months</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- KPI Cards -->
+    <section class="kpi-section">
+        <div class="container">
+            <div class="kpi-grid">
+                <div class="kpi-card" data-animate>
+                    <div class="kpi-card__icon">📊</div>
+                    <div class="kpi-card__content">
+                        <h3 class="kpi-card__title">Total Leads</h3>
+                        <div class="kpi-card__value" id="totalLeads">500</div>
+                        <div class="kpi-card__change positive">+12.5% vs last period</div>
+                    </div>
+                </div>
+                <div class="kpi-card" data-animate>
+                    <div class="kpi-card__icon">🎯</div>
+                    <div class="kpi-card__content">
+                        <h3 class="kpi-card__title">Conversion Rate</h3>
+                        <div class="kpi-card__value" id="conversionRate">16.0%</div>
+                        <div class="kpi-card__change positive">+2.3% vs last period</div>
+                    </div>
+                </div>
+                <div class="kpi-card" data-animate>
+                    <div class="kpi-card__icon">💰</div>
+                    <div class="kpi-card__content">
+                        <h3 class="kpi-card__title">Total Revenue</h3>
+                        <div class="kpi-card__value" id="totalRevenue">₹1.37Cr</div>
+                        <div class="kpi-card__change positive">+18.7% vs last period</div>
+                    </div>
+                </div>
+                <div class="kpi-card" data-animate>
+                    <div class="kpi-card__icon">📈</div>
+                    <div class="kpi-card__content">
+                        <h3 class="kpi-card__title">ROI</h3>
+                        <div class="kpi-card__value" id="roi">19.7x</div>
+                        <div class="kpi-card__change positive">+5.2% vs last period</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Dashboard -->
+    <main class="dashboard">
+        <div class="container">
+            <div class="dashboard-grid">
+                <!-- Lead Generation by Channel -->
+                <div class="dashboard-card">
+                    <div class="card__header">
+                        <h3>Lead Generation by Channel</h3>
+                        <button class="btn btn--sm btn--outline" onclick="exportChart('channelChart')">Export</button>
+                    </div>
+                    <div class="card__body">
+                        <div class="chart-container" style="position: relative; height: 300px;">
+                            <canvas id="channelChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Monthly Trends -->
+                <div class="dashboard-card">
+                    <div class="card__header">
+                        <h3>Monthly Performance Trends</h3>
+                        <button class="btn btn--sm btn--outline" onclick="exportChart('trendsChart')">Export</button>
+                    </div>
+                    <div class="card__body">
+                        <div class="chart-container" style="position: relative; height: 300px;">
+                            <canvas id="trendsChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Property Type Revenue -->
+                <div class="dashboard-card">
+                    <div class="card__header">
+                        <h3>Revenue by Property Type</h3>
+                        <button class="btn btn--sm btn--outline" onclick="exportChart('propertyChart')">Export</button>
+                    </div>
+                    <div class="card__body">
+                        <div class="chart-container" style="position: relative; height: 300px;">
+                            <canvas id="propertyChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Campaign Performance Table -->
+                <div class="dashboard-card">
+                    <div class="card__header">
+                        <h3>Campaign Performance</h3>
+                        <div class="table-controls">
+                            <select class="form-control form-control--sm" id="campaignFilter">
+                                <option value="">All Campaigns</option>
+                                <option value="Active">Active</option>
+                                <option value="Paused">Paused</option>
+                                <option value="Completed">Completed</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="card__body">
+                        <div class="table-container">
+                            <table class="performance-table" id="campaignTable">
+                                <thead>
+                                    <tr>
+                                        <th onclick="sortTable(0)">Campaign <span class="sort-icon">↕</span></th>
+                                        <th onclick="sortTable(1)">Type <span class="sort-icon">↕</span></th>
+                                        <th onclick="sortTable(2)">Cost <span class="sort-icon">↕</span></th>
+                                        <th onclick="sortTable(3)">Leads <span class="sort-icon">↕</span></th>
+                                        <th onclick="sortTable(4)">ROI <span class="sort-icon">↕</span></th>
+                                        <th>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="campaignTableBody">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lead Score Distribution -->
+                <div class="dashboard-card">
+                    <div class="card__header">
+                        <h3>Lead Score Distribution</h3>
+                        <button class="btn btn--sm btn--outline" onclick="exportChart('scoreChart')">Export</button>
+                    </div>
+                    <div class="card__body">
+                        <div class="chart-container" style="position: relative; height: 300px;">
+                            <canvas id="scoreChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Top Locations -->
+                <div class="dashboard-card">
+                    <div class="card__header">
+                        <h3>Top Performing Locations</h3>
+                        <button class="btn btn--sm btn--outline" onclick="refreshData()">Refresh</button>
+                    </div>
+                    <div class="card__body">
+                        <div class="locations-list" id="locationsList">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Insights Section -->
+    <section class="insights-section">
+        <div class="container">
+            <div class="insights-card">
+                <h3>Key Insights & Recommendations</h3>
+                <div class="insights-list" id="insightsList">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__content">
+                <div class="footer__brand">
+                    <h4>Realty Reach</h4>
+                    <p>Digital Marketing for Real Estate Success</p>
+                </div>
+                <div class="footer__contact">
+                    <p>Contact: hello@realtyreach.online</p>
+                    <p>Website: realtyreach.online</p>
+                </div>
+                <div class="footer__meta">
+                    <p>Last Updated: <span id="lastUpdated"></span></p>
+                    <p>Data Sources: CRM, Google Analytics, Marketing Platforms</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay hidden" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <p>Updating dashboard data...</p>
+    </div>
+
+    <!-- Modal for detailed views -->
+    <div class="modal hidden" id="detailModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle">Detailed View</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
