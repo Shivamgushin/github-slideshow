@@ -1,0 +1,241 @@
+date,campaign_name,campaign_type,impressions,clicks,cost,leads_generated,ctr,cpl,conversion_rate
+2025-08-09,Luxury Villas Mumbai,Google Ads,5072,107,5552.93,19,2.11,292.26,17.76
+2025-08-10,Luxury Villas Mumbai,Google Ads,8322,478,4208.61,62,5.74,67.88,12.97
+2025-08-11,Luxury Villas Mumbai,Google Ads,10712,391,3686.03,61,3.65,60.43,15.6
+2025-08-12,Luxury Villas Mumbai,Google Ads,6721,488,6171.21,83,7.26,74.35,17.01
+2025-08-13,Luxury Villas Mumbai,Google Ads,2982,228,6347.35,28,7.65,226.69,12.28
+2025-08-14,Luxury Villas Mumbai,Google Ads,6195,180,6191.53,24,2.91,257.98,13.33
+2025-08-15,Luxury Villas Mumbai,Google Ads,13263,374,5689.67,55,2.82,103.45,14.71
+2025-08-16,Luxury Villas Mumbai,Google Ads,11031,856,5337.35,132,7.76,40.43,15.42
+2025-08-17,Luxury Villas Mumbai,Google Ads,12748,780,4752.0,110,6.12,43.2,14.1
+2025-08-18,Luxury Villas Mumbai,Google Ads,11886,346,6411.61,51,2.91,125.72,14.74
+2025-08-19,Luxury Villas Mumbai,Google Ads,12418,493,5126.7,66,3.97,77.68,13.39
+2025-08-20,Luxury Villas Mumbai,Google Ads,5887,348,5243.09,54,5.91,97.09,15.52
+2025-08-21,Luxury Villas Mumbai,Google Ads,13707,932,6087.76,143,6.8,42.57,15.34
+2025-08-22,Luxury Villas Mumbai,Google Ads,7562,463,6195.93,64,6.12,96.81,13.82
+2025-08-23,Luxury Villas Mumbai,Google Ads,4715,215,6227.01,35,4.56,177.91,16.28
+2025-08-24,Luxury Villas Mumbai,Google Ads,4878,289,5194.53,34,5.92,152.78,11.76
+2025-08-25,Luxury Villas Mumbai,Google Ads,5089,198,5172.02,26,3.89,198.92,13.13
+2025-08-26,Luxury Villas Mumbai,Google Ads,14287,387,4452.79,54,2.71,82.46,13.95
+2025-08-27,Luxury Villas Mumbai,Google Ads,4884,310,5796.31,47,6.35,123.33,15.16
+2025-08-28,Luxury Villas Mumbai,Google Ads,9283,721,4410.04,111,7.77,39.73,15.4
+2025-08-29,Luxury Villas Mumbai,Google Ads,14716,1118,6182.39,147,7.6,42.06,13.15
+2025-08-30,Luxury Villas Mumbai,Google Ads,14596,531,5837.32,58,3.64,100.64,10.92
+2025-08-31,Luxury Villas Mumbai,Google Ads,4249,118,3578.59,16,2.78,223.66,13.56
+2025-09-01,Luxury Villas Mumbai,Google Ads,12526,714,5316.81,118,5.7,45.06,16.53
+2025-09-02,Luxury Villas Mumbai,Google Ads,12532,424,4196.55,58,3.38,72.35,13.68
+2025-09-03,Luxury Villas Mumbai,Google Ads,13761,296,3738.43,36,2.15,103.85,12.16
+2025-09-04,Luxury Villas Mumbai,Google Ads,10308,289,6038.41,49,2.8,123.23,16.96
+2025-09-05,Luxury Villas Mumbai,Google Ads,10180,638,4621.88,102,6.27,45.31,15.99
+2025-09-06,Luxury Villas Mumbai,Google Ads,8848,437,3912.54,72,4.94,54.34,16.48
+2025-09-07,Luxury Villas Mumbai,Google Ads,5666,190,4725.77,26,3.35,181.76,13.68
+2025-08-09,Affordable Homes Pune,Facebook Ads,1372,103,3175.3,20,7.51,158.76,19.42
+2025-08-10,Affordable Homes Pune,Facebook Ads,3073,198,3232.37,27,6.44,119.72,13.64
+2025-08-11,Affordable Homes Pune,Facebook Ads,7457,240,2015.62,32,3.22,62.99,13.33
+2025-08-12,Affordable Homes Pune,Facebook Ads,4848,349,2484.91,57,7.2,43.59,16.33
+2025-08-13,Affordable Homes Pune,Facebook Ads,3911,281,3081.38,51,7.18,60.42,18.15
+2025-08-14,Affordable Homes Pune,Facebook Ads,4752,210,1812.74,24,4.42,75.53,11.43
+2025-08-15,Affordable Homes Pune,Facebook Ads,7273,505,2830.3,83,6.94,34.1,16.44
+2025-08-16,Affordable Homes Pune,Facebook Ads,4478,253,2863.7,43,5.65,66.6,17.0
+2025-08-17,Affordable Homes Pune,Facebook Ads,6114,318,2712.09,48,5.2,56.5,15.09
+2025-08-18,Affordable Homes Pune,Facebook Ads,7018,471,2530.97,66,6.71,38.35,14.01
+2025-08-19,Affordable Homes Pune,Facebook Ads,4949,234,3066.65,44,4.73,69.7,18.8
+2025-08-20,Affordable Homes Pune,Facebook Ads,3262,166,2343.42,23,5.09,101.89,13.86
+2025-08-21,Affordable Homes Pune,Facebook Ads,7272,162,2331.1,20,2.23,116.55,12.35
+2025-08-22,Affordable Homes Pune,Facebook Ads,6416,498,2034.78,69,7.76,29.49,13.86
+2025-08-23,Affordable Homes Pune,Facebook Ads,4850,212,2206.83,42,4.37,52.54,19.81
+2025-08-24,Affordable Homes Pune,Facebook Ads,3592,171,2383.69,31,4.76,76.89,18.13
+2025-08-25,Affordable Homes Pune,Facebook Ads,6272,471,2784.93,83,7.51,33.55,17.62
+2025-08-26,Affordable Homes Pune,Facebook Ads,2415,115,2719.15,15,4.76,181.28,13.04
+2025-08-27,Affordable Homes Pune,Facebook Ads,1990,126,1919.76,15,6.33,127.98,11.9
+2025-08-28,Affordable Homes Pune,Facebook Ads,6045,461,2794.17,67,7.63,41.7,14.53
+2025-08-29,Affordable Homes Pune,Facebook Ads,2358,102,2235.19,10,4.33,223.52,9.8
+2025-08-30,Affordable Homes Pune,Facebook Ads,1454,44,2635.47,10,3.03,263.55,22.73
+2025-08-31,Affordable Homes Pune,Facebook Ads,7087,522,3073.82,78,7.37,39.41,14.94
+2025-09-01,Affordable Homes Pune,Facebook Ads,1988,69,2787.58,8,3.47,348.45,11.59
+2025-09-02,Affordable Homes Pune,Facebook Ads,7078,479,2827.56,65,6.77,43.5,13.57
+2025-09-03,Affordable Homes Pune,Facebook Ads,2262,57,2809.34,10,2.52,280.93,17.54
+2025-09-04,Affordable Homes Pune,Facebook Ads,6444,269,2535.73,44,4.17,57.63,16.36
+2025-09-05,Affordable Homes Pune,Facebook Ads,4396,279,3212.79,42,6.35,76.49,15.05
+2025-09-06,Affordable Homes Pune,Facebook Ads,6264,482,2318.02,76,7.69,30.5,15.77
+2025-09-07,Affordable Homes Pune,Facebook Ads,4367,98,2006.33,17,2.24,118.02,17.35
+2025-08-09,Commercial Spaces Delhi,LinkedIn Ads,7157,385,3652.39,73,5.38,50.03,18.96
+2025-08-10,Commercial Spaces Delhi,LinkedIn Ads,4125,122,2622.55,16,2.96,163.91,13.11
+2025-08-11,Commercial Spaces Delhi,LinkedIn Ads,2506,113,2952.37,24,4.51,123.02,21.24
+2025-08-12,Commercial Spaces Delhi,LinkedIn Ads,8977,335,2694.73,45,3.73,59.88,13.43
+2025-08-13,Commercial Spaces Delhi,LinkedIn Ads,3821,296,2340.4,51,7.75,45.89,17.23
+2025-08-14,Commercial Spaces Delhi,LinkedIn Ads,5812,120,3328.59,18,2.06,184.92,15.0
+2025-08-15,Commercial Spaces Delhi,LinkedIn Ads,9835,517,2344.83,64,5.26,36.64,12.38
+2025-08-16,Commercial Spaces Delhi,LinkedIn Ads,9750,334,3511.06,61,3.43,57.56,18.26
+2025-08-17,Commercial Spaces Delhi,LinkedIn Ads,9460,446,3217.08,63,4.71,51.06,14.13
+2025-08-18,Commercial Spaces Delhi,LinkedIn Ads,1773,61,3428.02,9,3.44,380.89,14.75
+2025-08-19,Commercial Spaces Delhi,LinkedIn Ads,5067,116,2629.85,11,2.29,239.08,9.48
+2025-08-20,Commercial Spaces Delhi,LinkedIn Ads,7384,163,4040.99,25,2.21,161.64,15.34
+2025-08-21,Commercial Spaces Delhi,LinkedIn Ads,6555,261,2508.74,42,3.98,59.73,16.09
+2025-08-22,Commercial Spaces Delhi,LinkedIn Ads,3450,155,2689.83,26,4.49,103.46,16.77
+2025-08-23,Commercial Spaces Delhi,LinkedIn Ads,6325,358,3716.36,50,5.66,74.33,13.97
+2025-08-24,Commercial Spaces Delhi,LinkedIn Ads,4572,356,3832.0,57,7.79,67.23,16.01
+2025-08-25,Commercial Spaces Delhi,LinkedIn Ads,7567,574,2519.59,90,7.59,28.0,15.68
+2025-08-26,Commercial Spaces Delhi,LinkedIn Ads,6569,258,4128.39,29,3.93,142.36,11.24
+2025-08-27,Commercial Spaces Delhi,LinkedIn Ads,2774,181,4019.95,23,6.52,174.78,12.71
+2025-08-28,Commercial Spaces Delhi,LinkedIn Ads,2729,102,2602.42,21,3.74,123.92,20.59
+2025-08-29,Commercial Spaces Delhi,LinkedIn Ads,6162,244,3160.85,42,3.96,75.26,17.21
+2025-08-30,Commercial Spaces Delhi,LinkedIn Ads,5104,315,3557.44,49,6.17,72.6,15.56
+2025-08-31,Commercial Spaces Delhi,LinkedIn Ads,3456,187,4292.03,23,5.41,186.61,12.3
+2025-09-01,Commercial Spaces Delhi,LinkedIn Ads,3102,152,3710.64,19,4.9,195.3,12.5
+2025-09-02,Commercial Spaces Delhi,LinkedIn Ads,6371,290,4028.93,46,4.55,87.59,15.86
+2025-09-03,Commercial Spaces Delhi,LinkedIn Ads,5920,305,4323.38,57,5.15,75.85,18.69
+2025-09-04,Commercial Spaces Delhi,LinkedIn Ads,7463,564,3561.91,83,7.56,42.91,14.72
+2025-09-05,Commercial Spaces Delhi,LinkedIn Ads,9798,501,3597.05,70,5.11,51.39,13.97
+2025-09-06,Commercial Spaces Delhi,LinkedIn Ads,9735,666,4100.66,112,6.84,36.61,16.82
+2025-09-07,Commercial Spaces Delhi,LinkedIn Ads,5478,342,4291.85,43,6.24,99.81,12.57
+2025-08-09,Student Housing Bangalore,Instagram Ads,845,22,1631.55,3,2.6,543.85,13.64
+2025-08-10,Student Housing Bangalore,Instagram Ads,1799,115,1374.0,12,6.39,114.5,10.43
+2025-08-11,Student Housing Bangalore,Instagram Ads,4229,189,1500.46,32,4.47,46.89,16.93
+2025-08-12,Student Housing Bangalore,Instagram Ads,2572,53,1367.85,15,2.06,91.19,28.3
+2025-08-13,Student Housing Bangalore,Instagram Ads,3140,110,1234.5,17,3.5,72.62,15.45
+2025-08-14,Student Housing Bangalore,Instagram Ads,3292,165,1490.59,24,5.01,62.11,14.55
+2025-08-15,Student Housing Bangalore,Instagram Ads,883,23,1499.95,2,2.6,749.97,8.7
+2025-08-16,Student Housing Bangalore,Instagram Ads,4077,258,1782.66,36,6.33,49.52,13.95
+2025-08-17,Student Housing Bangalore,Instagram Ads,1071,74,1360.68,11,6.91,123.7,14.86
+2025-08-18,Student Housing Bangalore,Instagram Ads,3601,271,1645.77,35,7.53,47.02,12.92
+2025-08-19,Student Housing Bangalore,Instagram Ads,4720,320,1812.32,36,6.78,50.34,11.25
+2025-08-20,Student Housing Bangalore,Instagram Ads,4777,140,1627.28,21,2.93,77.49,15.0
+2025-08-21,Student Housing Bangalore,Instagram Ads,3578,170,1980.83,28,4.75,70.74,16.47
+2025-08-22,Student Housing Bangalore,Instagram Ads,1291,90,1466.01,11,6.97,133.27,12.22
+2025-08-23,Student Housing Bangalore,Instagram Ads,3417,182,1185.39,23,5.33,51.54,12.64
+2025-08-24,Student Housing Bangalore,Instagram Ads,3550,241,2054.7,26,6.79,79.03,10.79
+2025-08-25,Student Housing Bangalore,Instagram Ads,3729,89,1315.97,16,2.39,82.25,17.98
+2025-08-26,Student Housing Bangalore,Instagram Ads,1088,43,1541.91,6,3.95,256.98,13.95
+2025-08-27,Student Housing Bangalore,Instagram Ads,2192,118,1556.23,27,5.38,57.64,22.88
+2025-08-28,Student Housing Bangalore,Instagram Ads,1790,128,1918.21,20,7.15,95.91,15.62
+2025-08-29,Student Housing Bangalore,Instagram Ads,3409,213,1438.16,31,6.25,46.39,14.55
+2025-08-30,Student Housing Bangalore,Instagram Ads,1544,76,1404.31,10,4.92,140.43,13.16
+2025-08-31,Student Housing Bangalore,Instagram Ads,4535,316,1469.3,31,6.97,47.4,9.81
+2025-09-01,Student Housing Bangalore,Instagram Ads,3309,100,1540.88,15,3.02,102.73,15.0
+2025-09-02,Student Housing Bangalore,Instagram Ads,1139,75,2080.02,11,6.58,189.09,14.67
+2025-09-03,Student Housing Bangalore,Instagram Ads,4468,225,1965.69,27,5.04,72.8,12.0
+2025-09-04,Student Housing Bangalore,Instagram Ads,4929,144,1506.78,20,2.92,75.34,13.89
+2025-09-05,Student Housing Bangalore,Instagram Ads,4793,306,1690.29,49,6.38,34.5,16.01
+2025-09-06,Student Housing Bangalore,Instagram Ads,3514,100,2038.47,13,2.85,156.81,13.0
+2025-09-07,Student Housing Bangalore,Instagram Ads,1920,62,1203.22,6,3.23,200.54,9.68
+2025-08-09,Premium Plots Hyderabad,Google Ads,8350,524,4053.63,81,6.28,50.04,15.46
+2025-08-10,Premium Plots Hyderabad,Google Ads,2067,79,2905.67,13,3.82,223.51,16.46
+2025-08-11,Premium Plots Hyderabad,Google Ads,11736,848,3599.9,132,7.23,27.27,15.57
+2025-08-12,Premium Plots Hyderabad,Google Ads,2755,72,4638.83,16,2.61,289.93,22.22
+2025-08-13,Premium Plots Hyderabad,Google Ads,7119,151,4620.39,14,2.12,330.03,9.27
+2025-08-14,Premium Plots Hyderabad,Google Ads,5438,213,3262.11,35,3.92,93.2,16.43
+2025-08-15,Premium Plots Hyderabad,Google Ads,6532,339,4654.69,47,5.19,99.04,13.86
+2025-08-16,Premium Plots Hyderabad,Google Ads,3927,142,3177.99,18,3.62,176.56,12.68
+2025-08-17,Premium Plots Hyderabad,Google Ads,3875,81,4295.07,14,2.09,306.79,17.28
+2025-08-18,Premium Plots Hyderabad,Google Ads,10422,272,4102.07,49,2.61,83.72,18.01
+2025-08-19,Premium Plots Hyderabad,Google Ads,11000,430,3139.74,72,3.91,43.61,16.74
+2025-08-20,Premium Plots Hyderabad,Google Ads,6641,361,3211.06,46,5.44,69.81,12.74
+2025-08-21,Premium Plots Hyderabad,Google Ads,7101,403,3612.97,58,5.68,62.29,14.39
+2025-08-22,Premium Plots Hyderabad,Google Ads,9268,213,2869.58,37,2.3,77.56,17.37
+2025-08-23,Premium Plots Hyderabad,Google Ads,2826,74,2929.12,17,2.62,172.3,22.97
+2025-08-24,Premium Plots Hyderabad,Google Ads,8987,391,4491.23,57,4.35,78.79,14.58
+2025-08-25,Premium Plots Hyderabad,Google Ads,11711,676,4456.3,109,5.77,40.88,16.12
+2025-08-26,Premium Plots Hyderabad,Google Ads,9304,530,3549.86,93,5.7,38.17,17.55
+2025-08-27,Premium Plots Hyderabad,Google Ads,5246,329,4410.09,57,6.27,77.37,17.33
+2025-08-28,Premium Plots Hyderabad,Google Ads,10740,265,5014.68,49,2.47,102.34,18.49
+2025-08-29,Premium Plots Hyderabad,Google Ads,9629,520,3023.0,64,5.4,47.23,12.31
+2025-08-30,Premium Plots Hyderabad,Google Ads,9672,249,3544.94,39,2.57,90.9,15.66
+2025-08-31,Premium Plots Hyderabad,Google Ads,9625,464,5073.88,68,4.82,74.62,14.66
+2025-09-01,Premium Plots Hyderabad,Google Ads,4354,312,4280.66,43,7.17,99.55,13.78
+2025-09-02,Premium Plots Hyderabad,Google Ads,7954,346,4479.08,58,4.35,77.23,16.76
+2025-09-03,Premium Plots Hyderabad,Google Ads,7412,499,4917.77,83,6.73,59.25,16.63
+2025-09-04,Premium Plots Hyderabad,Google Ads,9426,464,2956.88,69,4.92,42.85,14.87
+2025-09-05,Premium Plots Hyderabad,Google Ads,3849,158,3906.98,24,4.1,162.79,15.19
+2025-09-06,Premium Plots Hyderabad,Google Ads,4798,177,3636.68,34,3.69,106.96,19.21
+2025-09-07,Premium Plots Hyderabad,Google Ads,11415,315,3047.04,38,2.76,80.19,12.06
+2025-08-09,Office Spaces Chennai,Facebook Ads,7184,487,2388.06,80,6.78,29.85,16.43
+2025-08-10,Office Spaces Chennai,Facebook Ads,6653,161,2350.06,17,2.42,138.24,10.56
+2025-08-11,Office Spaces Chennai,Facebook Ads,5109,225,2528.17,37,4.4,68.33,16.44
+2025-08-12,Office Spaces Chennai,Facebook Ads,6419,222,2121.1,39,3.46,54.39,17.57
+2025-08-13,Office Spaces Chennai,Facebook Ads,5284,227,2411.81,24,4.3,100.49,10.57
+2025-08-14,Office Spaces Chennai,Facebook Ads,8000,493,2556.5,71,6.16,36.01,14.4
+2025-08-15,Office Spaces Chennai,Facebook Ads,4899,264,2414.19,45,5.39,53.65,17.05
+2025-08-16,Office Spaces Chennai,Facebook Ads,7019,239,2926.85,26,3.41,112.57,10.88
+2025-08-17,Office Spaces Chennai,Facebook Ads,1971,126,3005.72,20,6.39,150.29,15.87
+2025-08-18,Office Spaces Chennai,Facebook Ads,5319,142,2820.39,29,2.67,97.25,20.42
+2025-08-19,Office Spaces Chennai,Facebook Ads,3998,213,3181.9,32,5.33,99.43,15.02
+2025-08-20,Office Spaces Chennai,Facebook Ads,2776,106,2515.94,15,3.82,167.73,14.15
+2025-08-21,Office Spaces Chennai,Facebook Ads,6233,165,3169.17,18,2.65,176.07,10.91
+2025-08-22,Office Spaces Chennai,Facebook Ads,7651,529,2390.52,83,6.91,28.8,15.69
+2025-08-23,Office Spaces Chennai,Facebook Ads,6616,394,2011.52,56,5.96,35.92,14.21
+2025-08-24,Office Spaces Chennai,Facebook Ads,2471,180,3311.88,34,7.28,97.41,18.89
+2025-08-25,Office Spaces Chennai,Facebook Ads,6544,448,3077.99,89,6.85,34.58,19.87
+2025-08-26,Office Spaces Chennai,Facebook Ads,6746,195,2716.68,46,2.89,59.06,23.59
+2025-08-27,Office Spaces Chennai,Facebook Ads,4527,257,2582.12,48,5.68,53.79,18.68
+2025-08-28,Office Spaces Chennai,Facebook Ads,3017,183,2373.22,28,6.07,84.76,15.3
+2025-08-29,Office Spaces Chennai,Facebook Ads,6004,406,2953.96,65,6.76,45.45,16.01
+2025-08-30,Office Spaces Chennai,Facebook Ads,4894,308,3330.86,49,6.29,67.98,15.91
+2025-08-31,Office Spaces Chennai,Facebook Ads,2064,113,2845.05,23,5.47,123.7,20.35
+2025-09-01,Office Spaces Chennai,Facebook Ads,5514,244,2070.76,45,4.43,46.02,18.44
+2025-09-02,Office Spaces Chennai,Facebook Ads,3742,88,3308.39,14,2.35,236.31,15.91
+2025-09-03,Office Spaces Chennai,Facebook Ads,1768,35,2762.72,4,1.98,690.68,11.43
+2025-09-04,Office Spaces Chennai,Facebook Ads,4275,113,2318.2,19,2.64,122.01,16.81
+2025-09-05,Office Spaces Chennai,Facebook Ads,1588,54,2990.22,12,3.4,249.19,22.22
+2025-09-06,Office Spaces Chennai,Facebook Ads,4562,262,3005.5,32,5.74,93.92,12.21
+2025-09-07,Office Spaces Chennai,Facebook Ads,4659,199,2738.86,28,4.27,97.82,14.07
+2025-08-09,Retirement Homes Goa,Email Marketing,1126,54,677.45,14,4.8,48.39,25.93
+2025-08-10,Retirement Homes Goa,Email Marketing,1991,140,763.48,20,7.03,38.17,14.29
+2025-08-11,Retirement Homes Goa,Email Marketing,2124,62,1082.06,13,2.92,83.24,20.97
+2025-08-12,Retirement Homes Goa,Email Marketing,930,26,619.21,3,2.8,206.4,11.54
+2025-08-13,Retirement Homes Goa,Email Marketing,480,13,1025.78,3,2.71,341.93,23.08
+2025-08-14,Retirement Homes Goa,Email Marketing,2204,173,651.22,19,7.85,34.27,10.98
+2025-08-15,Retirement Homes Goa,Email Marketing,978,57,791.26,12,5.83,65.94,21.05
+2025-08-16,Retirement Homes Goa,Email Marketing,2283,168,931.03,34,7.36,27.38,20.24
+2025-08-17,Retirement Homes Goa,Email Marketing,2159,123,810.53,15,5.7,54.04,12.2
+2025-08-18,Retirement Homes Goa,Email Marketing,2153,114,808.36,15,5.29,53.89,13.16
+2025-08-19,Retirement Homes Goa,Email Marketing,1871,62,795.72,4,3.31,198.93,6.45
+2025-08-20,Retirement Homes Goa,Email Marketing,446,24,1006.74,2,5.38,503.37,8.33
+2025-08-21,Retirement Homes Goa,Email Marketing,1385,86,717.96,11,6.21,65.27,12.79
+2025-08-22,Retirement Homes Goa,Email Marketing,1919,42,602.27,4,2.19,150.57,9.52
+2025-08-23,Retirement Homes Goa,Email Marketing,2395,149,639.92,17,6.22,37.64,11.41
+2025-08-24,Retirement Homes Goa,Email Marketing,2388,185,623.36,22,7.75,28.33,11.89
+2025-08-25,Retirement Homes Goa,Email Marketing,1560,74,622.45,6,4.74,103.74,8.11
+2025-08-26,Retirement Homes Goa,Email Marketing,778,27,898.66,4,3.47,224.67,14.81
+2025-08-27,Retirement Homes Goa,Email Marketing,735,44,852.93,6,5.99,142.16,13.64
+2025-08-28,Retirement Homes Goa,Email Marketing,1695,96,1035.13,18,5.66,57.51,18.75
+2025-08-29,Retirement Homes Goa,Email Marketing,460,22,839.66,2,4.78,419.83,9.09
+2025-08-30,Retirement Homes Goa,Email Marketing,2337,127,749.09,19,5.43,39.43,14.96
+2025-08-31,Retirement Homes Goa,Email Marketing,1861,144,982.44,20,7.74,49.12,13.89
+2025-09-01,Retirement Homes Goa,Email Marketing,1600,48,930.86,7,3.0,132.98,14.58
+2025-09-02,Retirement Homes Goa,Email Marketing,1661,105,865.19,15,6.32,57.68,14.29
+2025-09-03,Retirement Homes Goa,Email Marketing,667,38,872.4,3,5.7,290.8,7.89
+2025-09-04,Retirement Homes Goa,Email Marketing,627,37,729.21,3,5.9,243.07,8.11
+2025-09-05,Retirement Homes Goa,Email Marketing,527,19,624.59,5,3.61,124.92,26.32
+2025-09-06,Retirement Homes Goa,Email Marketing,2486,61,975.21,11,2.45,88.66,18.03
+2025-09-07,Retirement Homes Goa,Email Marketing,1448,40,723.82,3,2.76,241.27,7.5
+2025-08-09,Investment Properties,Display Ads,8527,302,3434.57,38,3.54,90.38,12.58
+2025-08-10,Investment Properties,Display Ads,6446,196,3165.19,26,3.04,121.74,13.27
+2025-08-11,Investment Properties,Display Ads,2738,163,2765.58,32,5.95,86.42,19.63
+2025-08-12,Investment Properties,Display Ads,2936,104,3361.39,16,3.54,210.09,15.38
+2025-08-13,Investment Properties,Display Ads,5472,168,3049.3,24,3.07,127.05,14.29
+2025-08-14,Investment Properties,Display Ads,1771,71,2251.92,8,4.01,281.49,11.27
+2025-08-15,Investment Properties,Display Ads,2688,149,3579.1,23,5.54,155.61,15.44
+2025-08-16,Investment Properties,Display Ads,8361,416,3888.45,57,4.98,68.22,13.7
+2025-08-17,Investment Properties,Display Ads,7810,335,3289.2,43,4.29,76.49,12.84
+2025-08-18,Investment Properties,Display Ads,7447,433,2479.54,63,5.81,39.36,14.55
+2025-08-19,Investment Properties,Display Ads,7515,529,2197.79,72,7.04,30.52,13.61
+2025-08-20,Investment Properties,Display Ads,3665,239,2308.79,38,6.52,60.76,15.9
+2025-08-21,Investment Properties,Display Ads,2872,137,2957.22,22,4.77,134.42,16.06
+2025-08-22,Investment Properties,Display Ads,5401,349,3454.37,52,6.46,66.43,14.9
+2025-08-23,Investment Properties,Display Ads,5862,199,3330.32,18,3.39,185.02,9.05
+2025-08-24,Investment Properties,Display Ads,4695,227,2361.27,26,4.83,90.82,11.45
+2025-08-25,Investment Properties,Display Ads,8629,397,2619.83,67,4.6,39.1,16.88
+2025-08-26,Investment Properties,Display Ads,8031,376,3321.29,60,4.68,55.35,15.96
+2025-08-27,Investment Properties,Display Ads,5843,356,2173.83,55,6.09,39.52,15.45
+2025-08-28,Investment Properties,Display Ads,5852,340,3821.13,49,5.81,77.98,14.41
+2025-08-29,Investment Properties,Display Ads,5037,285,3273.72,61,5.66,53.67,21.4
+2025-08-30,Investment Properties,Display Ads,3733,149,2580.76,17,3.99,151.81,11.41
+2025-08-31,Investment Properties,Display Ads,2305,81,3151.52,15,3.51,210.1,18.52
+2025-09-01,Investment Properties,Display Ads,5277,350,3448.36,61,6.63,56.53,17.43
+2025-09-02,Investment Properties,Display Ads,7515,453,3486.9,76,6.03,45.88,16.78
+2025-09-03,Investment Properties,Display Ads,5759,231,3342.5,28,4.01,119.38,12.12
+2025-09-04,Investment Properties,Display Ads,2973,115,2119.04,17,3.87,124.65,14.78
+2025-09-05,Investment Properties,Display Ads,1569,109,2121.53,22,6.95,96.43,20.18
+2025-09-06,Investment Properties,Display Ads,2300,118,3333.9,22,5.13,151.54,18.64
+2025-09-07,Investment Properties,Display Ads,4379,145,2609.93,20,3.31,130.5,13.79
